@@ -15,6 +15,15 @@ Lodex have many exporters availables :
 
 Lodex allows you to export the istex query fields in format **N-quads **with the `EZMASTER_PUBLIC_URL` to the named graph.
 
+Note: if you don't use `EZMASTER` , define the named graph with the property `graph` in `config.istexquery`:
+
+```json
+...
+"istexQuery" : {
+    "graph" : "http://yoururl.com/graph"
+...
+```
+
 In the file config.js, you can configure the export :
 
 ```json
