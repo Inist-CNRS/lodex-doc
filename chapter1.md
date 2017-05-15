@@ -45,7 +45,7 @@ In the file config.js, you can configure the export :
           "doi": "bibo:doi"
        }
     }
-} 
+}
 ```
 
 #### Labels
@@ -60,7 +60,7 @@ If labels is empty, all fields will exports. You can also select your fields lik
 
 #### Context
 
-In `context` , you can add any informations from the istexquery output result like the `doi` or the `langage` and you can join the result with a predicat \( `prefixes:predicat` or an`url` \):
+In `context` , you can add any informations from the istexquery output result like the `doi` or the `language` and you can join the result with a predicate \( `prefixes:predicate` or an`url` \):
 
 ```json
 ...
