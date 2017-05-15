@@ -11,7 +11,7 @@ Lodex have many exporters availables :
 * JSON-LD
 * JSONLD \(Compacted\)
 
-## Exporters extended
+## Exporters extended {#extended-exporters}
 
 Lodex allows you to export the istex query fields in format **N-quads **with the `EZMASTER_PUBLIC_URL` to the named graph.
 
