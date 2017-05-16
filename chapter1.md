@@ -77,7 +77,7 @@ If labels is empty, all fields will exports. You can also select your fields lik
 
 #### Context
 
-In `context` , you can add any informations from the istexquery output result like the `doi` or the `language` and you can join the result with a predicate \( `prefixes:predicate` or an`url` \):
+In `context` , you can add any informations from the istex query output, like the `doi` or the `language` . You can join the result with a predicate \( `prefixes:predicate` or an`url` \):
 
 ```json
 ...
