@@ -13,9 +13,15 @@ Lodex have many exporters availables :
 
 ## Exporters extended {#extended-exporters}
 
+The exporters extended use only the istex query format to the export. A lodex with any istex query columns is useless to this exporters.
+
+### N-Quads extended
+
+The exporter N-Quads extended returns the results of the istex query in istex API. The results is formatted in a [N-Quads format](https://www.w3.org/TR/n-quads/). The exporter add a named graph on the triples. This named graph is useful for the triplestore import.
+
 Lodex allows you to export the istex query fields in format **N-quads **with the `EZMASTER_PUBLIC_URL` to the named graph.
 
-Note: if you don't use `EZMASTER` , define the named graph with the property `graph` in `config.istexquery`:
+> Note: if you don't use `EZMASTER` , define the named graph with the property `graph` in `config.istexquery`:
 
 ```json
 ...
@@ -66,6 +72,8 @@ If labels is empty, all fields will exports. You can also select your fields lik
     "labels": "label_name1,label_name3,label_name5",
     ...
 ```
+
+> Note: This is lodex's columns labels, not output in the istex API.
 
 #### Context
 
