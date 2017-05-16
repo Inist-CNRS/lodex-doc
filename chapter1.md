@@ -30,7 +30,7 @@ Lodex allows you to export the istex query fields in format **N-quads **with the
 ...
 ```
 
-In the file config.js, you can configure the export :
+In the file `config.json `in lodex root, you can configure the export :
 
 ```json
 ...
@@ -65,7 +65,7 @@ In the file config.js, you can configure the export :
 
 #### Labels
 
-If labels is empty, all fields will exports. You can also select your fields like :
+If labels is empty, all fields will export. You can also select your fields like :
 
 ```json
 "istexQuery" : {
