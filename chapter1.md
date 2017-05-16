@@ -13,7 +13,7 @@ Lodex have many exporters availables :
 
 ## Exporters extended {#extended-exporters}
 
-The exporters extended use only the istex query format to the export. A lodex with any istex query columns is useless to this exporters.
+The exporters extended use only the istex query format to the export. A lodex with any istex query columns is useless to these exporters.
 
 ### N-Quads extended
 
@@ -30,7 +30,7 @@ Lodex allows you to export the istex query fields in format **N-quads **with the
 ...
 ```
 
-In the file `config.json `in lodex root, you can configure the export :
+In the file `config.json`in lodex root, you can configure the export :
 
 ```json
 ...
