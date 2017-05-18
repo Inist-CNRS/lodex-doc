@@ -55,6 +55,7 @@ In the file `config.json`in lodex root, you can configure the export :
     },
     "istexQuery" : {
        "labels": "",
+       "linked": "language",
        "context": {
           "language": "dcterms:language",
           "doi": "bibo:doi"
@@ -95,6 +96,36 @@ In `context` , you can add any informations from the istex query output, like th
     }
 }
 ```
+
+### Lodex linker
+
+In the exporter, you must add a link between istex data results and your lodex document.
+
+The property `linked` was created for this purpose. 
+
+```json
+"istexQuery" : {
+    "labels": "",
+    "linked": "LINK",
+    "context": {
+        "language": "dcterms:language",
+        "doi": "bibo:doi",
+        "LINK": "dc:example"
+    }
+}
+```
+
+`linked` add in property `LINK` the lodex URI of your document with the rdf predicate `dc:example` .
+
+
+
+## Exporter script
+
+An export can take a long time to execute and it's more comfortable to export with a script/commands in bash or powershell.
+
+
+
+
 
 
 
