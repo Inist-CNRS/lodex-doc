@@ -123,15 +123,13 @@ An export can take a long time to execute and it's more comfortable to export wi
 
 So, you can use the command `wget` in bash and powershell 3.0 :
 
-```
+```bash
 > wget -O file lodex.url/api/export/nquads
 ```
 
 You have the list of all exporter available in `/api/export`:
 
-
-
-```
+```json
 [
     {
         "name": "nquads",
