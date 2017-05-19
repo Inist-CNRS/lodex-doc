@@ -101,7 +101,7 @@ In `context` , you can add any informations from the istex query output, like th
 
 In the exporter, you must add a link between istex data results and your lodex document.
 
-The property `linked` was created for this purpose. 
+The property `linked` was created for this purpose.
 
 ```json
 "istexQuery" : {
@@ -117,15 +117,64 @@ The property `linked` was created for this purpose.
 
 `linked` add in property `LINK` the lodex URI of your document with the rdf predicate `dc:example` .
 
-
-
 ## Exporter script
 
 An export can take a long time to execute and it's more comfortable to export with a script/commands in bash or powershell.
 
+So, you can use the command `wget` in bash and powershell 3.0 :
+
+```
+> wget -O file lodex.url/api/export/nquads
+```
+
+You have the list of all exporter available in `/api/export`:
 
 
 
+```
+[
+    {
+        "name": "nquads",
+        "type": "file"
+    },
+    {
+        "name": "extendednquads",
+        "type": "file"
+    },
+    {
+        "name": "extendednquadscompressed",
+        "type": "file"
+    },
+    {
+        "name": "csv",
+        "type": "file"
+    },
+    {
+        "name": "tsv",
+        "type": "file"
+    },
+    {
+        "name": "raw",
+        "type": "file"
+    },
+    {
+        "name": "turtle",
+        "type": "file"
+    },
+    {
+        "name": "jsonld",
+        "type": "file"
+    },
+    {
+        "name": "jsonldcompacted",
+        "type": "file"
+    },
+    {
+        "name": "widget",
+        "type": "widget"
+    }
+]
+```
 
 
 
