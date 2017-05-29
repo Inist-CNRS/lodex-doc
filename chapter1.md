@@ -124,8 +124,10 @@ An export can take a long time to execute and it's more comfortable to export wi
 So, you can use the command `wget` in bash and powershell 3.0 :
 
 ```bash
-> wget -O file lodex.url/api/export/nquads
+$ wget -O file -c lodex.url/api/export/nquads
 ```
+
+> ‘-c’ ‘--continue’ : wget options to restart the download from scratch and overwrite the existing file entirely if lodex export have an error
 
 You have the list of all exporter available in `/api/export`:
 
