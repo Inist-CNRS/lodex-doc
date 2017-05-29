@@ -127,7 +127,7 @@ So, you can use the command `wget` in bash and powershell 3.0 :
 $ wget -O file -c lodex.url/api/export/nquads
 ```
 
-> ‘-c’ ‘--continue’ : wget options to restart the download from scratch and overwrite the existing file entirely if lodex export have an error
+> ‘-c’ ‘--continue’ : wget option to restart the download from scratch and overwrite the existing file entirely if lodex export get an error.
 
 You have the list of all exporter available in `/api/export`:
 
