@@ -66,7 +66,7 @@ In the file `config.json`in lodex root, you can configure the export :
 
 #### Labels
 
-If labels is empty, all fields will export. You can also select your fields like :
+If labels is empty, all lodex fields in** ISTEX\_QUERY** **format** will be exported. You can also select your fields like :
 
 ```json
 "istexQuery" : {
