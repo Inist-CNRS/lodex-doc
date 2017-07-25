@@ -70,11 +70,13 @@ If labels is empty, all lodex fields in** ISTEX\_QUERY** **format** will be expo
 
 ```json
 "istexQuery" : {
-    "labels": "label_name1,label_name3,label_name5",
+    "labels": "istex_query1,istex_query3,istex_query5",
     ...
 ```
 
 > Note: This is lodex's columns labels, not output in the istex API.
+
+![](/assets/lodex_istex_query.png)
 
 #### Context
 
