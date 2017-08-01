@@ -26,9 +26,7 @@ Parameter: width percentage.
 
 ## istex
 
-The `istex` format takes an ISTEX query \(e.g.: `language:eng`\), gets the 10 first results from the API, and displays their titles, abstracts, years of publication, and add links to the matching PDFs.
-
-![](/assets/istex-format.png)
+The `istex` format takes an ISTEX query \(e.g.: `language:eng`\), gets the 10 first results from the API, and displays their titles, abstracts, years of publication, and add links to the matching PDFs.![](/assets/istex-format-2.png)
 
 The `extendednquads` exporter uses it to get all matching documents, and export the asked triples.
 
