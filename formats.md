@@ -46,7 +46,7 @@ The `markdown` format converts the column value using the [MarkDown](http://dari
 
 This allows to add links, headings, lists, ... into a text.
 
-paragraph
+## paragraph
 
 The paragraph format justifies the column value when displaying it in the web application.
 
