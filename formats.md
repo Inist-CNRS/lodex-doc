@@ -34,7 +34,7 @@ The `extendednquads` exporter uses it to get all matching documents, and export 
 
 ## link
 
-The `link` format adds an `href` link to the URL given in the column. This works with any URL, on the contrary to the `uri` format.
+The `link` format adds an `href` link to the URL given in the column. This works with any URL, on the contrary to the `uri` format. Plus, an array of URLs will produce an unordered list of clickable URLs.
 
 ## list
 
