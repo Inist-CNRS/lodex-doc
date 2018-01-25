@@ -1,6 +1,6 @@
 # Exporters
 
-Lodex have many exporters availables :
+LODEX a plusieurs formats d'export, et on peut choisir de les proposer ou non à l'utilisateur. Pour être affiché, un exporter doit être présent dans le tableau `exporters`.
 
 * N-Quads
 * N-Quads extended

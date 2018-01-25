@@ -1,8 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Formats](formats.md)
-* [Exporters](chapter1.md)
-* [Fields](fields.md)
-* [Transformers](transformers.md)
+* [Configuration](/Configuration/README.md)
+* [Administration](/Administration/README.md)
+* [Personnalisation du thème](/Thème/README.md)
+* [Contribution](/contribution.md) à ce document
+
+
 
