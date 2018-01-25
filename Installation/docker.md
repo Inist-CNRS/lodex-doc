@@ -1,6 +1,6 @@
 # Installer LODEX avec docker
 
-Pré-requis: docker, docker-compose
+_Pré-requis_: docker, docker-compose
 
 Pour installer puis lancer LODEX dans un conteneur docker:
 
