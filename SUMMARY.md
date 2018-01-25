@@ -1,6 +1,7 @@
 # Table des matières
 
 * [Introduction](README.md)
+* [Installation](/Installation/README.md)
 * [Configuration](/Configuration/README.md)
 * [Administration](/Administration/README.md)
 * [Personnalisation du thème](/Thème/README.md)
