@@ -1,6 +1,6 @@
 # Introduction
 
-LODEX est un outil permettant la publication d'un jeu de données \(`.csv`, `.tsv`, `.xml`, `.json`, ...\) dans des formats du web sémantique \([JSON-LD](https://json-ld.org/), [N-Quads](https://www.w3.org/TR/n-quads/)\), et qui propose de les manipuler dans une interface d'administration dédiée.
+LODEX est un outil permettant la publication d'un jeu de données \(`.csv`, `.tsv`, `.xml`, `.json`, ...\) dans des formats du web sémantique \([JSON-LD](https://json-ld.org/), [N-Quads](https://www.w3.org/TR/n-quads/)\), et qui propose de les manipuler dans une interface d'administration dédiée. Il permet aussi d'exposer ces données sur le web, et même d'en faire des graphiques.
 
 Pour voir ce dont LODEX est capable, rendez-vous sur [https://data.istex.fr/](https://data.istex.fr/) ou bien lisez [la suite de la présente documentation](//Installation/README.md).
 
