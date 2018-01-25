@@ -13,6 +13,12 @@
   * [exporters](/Configuration/exporters/README.md)
 * [Administration](/Administration/README.md)
 
+  * [login](/Administration/Login/README.md)
+
+  * [modèle](/Administration/Modèle/README.md)
+
+  * [modération](/Administration/Modération/README.md)
+
 * [Personnalisation du thème](/Thème/README.md)
 
 * [Contribution](/contribution.md)
