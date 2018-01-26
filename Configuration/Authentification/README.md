@@ -1,6 +1,4 @@
-# username/password
+# Renseigner les champs username/password
 
 Saisir dans ces deux champs respectifs, votre identifiant et mot de passe. Après cette opération, vous serez administrateur pour votre jeu de données. Dans ce cadre, vous pourrez publier le jeu de données, ; modifier, ajouter et supprimer une ressource de votre jeu. De même, il vous reviendra le droit de valider une proposition, proposée par un internaute, d'ajout d'un champ pour une ressource.
-
-
 
