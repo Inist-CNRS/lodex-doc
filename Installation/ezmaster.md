@@ -2,7 +2,6 @@
 
 _Pré-requis_: ezmaster 4+
 
-  
 [L'image docker de LODEX](https://hub.docker.com/r/inistcnrs/lodex/) est compatible avec [ezmaster](https://github.com/Inist-CNRS/ezmaster), pour lancer une instance de LODEX, il suffit donc de:
 
 * ajouter l'application `inistcnrs/lodex` dans sa dernière version
