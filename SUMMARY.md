@@ -14,7 +14,15 @@
 * [Administration](/Administration/README.md)
   * [login](/Administration/Login/README.md)
   * [modèle](/Administration/Modèle/README.md)
+    * [export](/Administration/Modèle/Export/README.md)
+    * [format](/Administration/Modèle/Format/README.md)
+    * [import](/Administration/Modèle/Import/README.md)
+    * [routine](/Administration/Modèle/Routine/README.md)
+    * [sémantique](/Administration/Modèle/Sémantique/README.md)
+    * [transformers](/Administration/Modèle/Transformers/README.md)
   * [modération](/Administration/Modération/README.md)
 * [Personnalisation du thème](/Thème/README.md)
 * [Contribution](/contribution.md)
+
+
 
