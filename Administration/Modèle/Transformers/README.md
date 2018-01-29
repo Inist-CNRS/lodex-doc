@@ -16,7 +16,7 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 
 * JBJ : appliquer une feuille de style [JBJ](http://inist-cnrs.github.io/jbj-playground/) à la valeur
 
-* JOIN : TODO
+* JOIN : rassemble les valeurs d'un tableau en une chaîne de caractères
 
 * LINK : TODO
 
@@ -26,11 +26,11 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 
 * SHIFT : décaler une valeur multiple \(tableau ou chaîne de caractères\)
 
-* SPLIT : TODO
+* SPLIT : segmente une chaîne de caractères en tableau
 
-* STRING : TODO
+* STRING : transforme la valeur en chaîne de caractères
 
-* SUFFIX : TODO
+* SUFFIX : ajoute une chaîne de caractères à la fin d'une chaîne ou d'un tableau
 
 * TRIM : enlève les espaces au début et à la fin d'une chaîne de caractères
 
