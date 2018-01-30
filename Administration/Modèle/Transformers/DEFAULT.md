@@ -10,7 +10,7 @@ Renvoie une valeur par défaut si la valeur par défaut n'existe pas \(vaut `nul
 | "" | "Ah." | "Ah." |
 | "0" | "Oh." | "0" |
 
-> **Remarque** : faites attention au type de la valeur de départ \(en particulier si vous manipulez des nombres\), car "0" est différent de 0, et sa valeur de vérité différente. C'est pourquoi vous pouvez vouloir utiliser un opérateur de transtypage, comme [BOOLEAN](/Administration/Modèle/Transformers/BOOLEAN.md), [STRING](/Administration/Modèle/Transformers/STRING.md), ou [NUMBER](/Administration/Modèle/Transformers/NUMBER.md).
+> **Remarque** : faites attention au type de la valeur de départ \(en particulier si vous manipulez des nombres\), car `"0"` est différent de `0`, et sa valeur de vérité différente. C'est pourquoi vous pouvez vouloir utiliser un opérateur de transtypage, comme [BOOLEAN](/Administration/Modèle/Transformers/BOOLEAN.md), [STRING](/Administration/Modèle/Transformers/STRING.md), ou [NUMBER](/Administration/Modèle/Transformers/NUMBER.md).
 
 
 
