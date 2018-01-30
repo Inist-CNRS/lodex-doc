@@ -18,7 +18,7 @@ Résultats :
 1. `[ "prem", "ière" ]`
 2. `[ "deux", "ième" ]`
 
-> **`Remarque`**`: pour concaténer des chaînes de caractères, on peut utiliser CONCAT conjointement avec `[`JOIN`](/Administration/Modèle/Transformers/JOIN.md)`.`
+> `Remarque: pour concaténer des chaînes de caractères, on peut utiliser CONCAT conjointement avec`[`JOIN`](/Administration/Modèle/Transformers/JOIN.md)`.`
 
 
 
