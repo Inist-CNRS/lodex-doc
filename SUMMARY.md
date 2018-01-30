@@ -38,6 +38,7 @@
       * [Heat Map](/Administration/Modèle/Format/HeatMap.md)
 
       * [HTML](/Administration/Modèle/Format/Html.md)
+
       * [Identifier Badge](/Administration/Modèle/Format/IdentifierBadge.md)
       * [Image URL](/Administration/Modèle/Format/Image.md)
       * [ISTEX Query](/Administration/Modèle/Format/Istex.md)
@@ -58,6 +59,7 @@
     * [import](/Administration/Modèle/Import/README.md)
 
     * [routine](/Administration/Modèle/Routine/README.md)
+
     * [sémantique](/Administration/Modèle/Sémantique/README.md)
     * [transformers](/Administration/Modèle/Transformers/README.md)
       * [AUTOGENERATE\_URI](/Administration/Modèle/Transformers/AUTOGENERATE_URI.md)
@@ -80,6 +82,16 @@
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
 
   * [modération](/Administration/Modération/README.md)
+
+* Processus de publication
+
+  * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
+
+  * [Création URI](/Processus publication/Création URI/README.md)
+
+  * Paramétrage
+
+    * [Stylage des colonnes](/Processus publication/Paramétrage/stylage des colonnes/README.md)
 
 * [Personnalisation du thème](/Thème/README.md)
 
