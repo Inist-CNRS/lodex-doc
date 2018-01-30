@@ -18,8 +18,6 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 
 * [JOIN](/Administration/Modèle/Transformers/JOIN.md) : rassemble les valeurs d'un tableau en une chaîne de caractères
 
-* [LINK](/Administration/Modèle/Transformers/LINK.md) : TODO
-
 * [NUMBER](/Administration/Modèle/Transformers/NUMBER.md) : transformer une chaîne de caractères en nombre
 
 * [PREFIX](/Administration/Modèle/Transformers/PREFIX.md) : préfixer la valeur avec une chaîne de caractères
