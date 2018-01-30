@@ -38,7 +38,5 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 
 * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md) : mettre la chaîne en majuscules
 
-* [VALUE](/Administration/Modèle/Transformers/VALUE.md) : donne une valeur arbitraire au champ \(la même pour toutes les ressources\)
-
 
 

@@ -38,7 +38,6 @@
       * [TRUNCATE](/Administration/Modèle/Transformers/TRUNCATE.md)
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
-      * [VALUE](/Administration/Modèle/Transformers/VALUE.md)
   * [modération](/Administration/Modération/README.md)
 * [Personnalisation du thème](/Thème/README.md)
 * [Contribution](/contribution.md)
