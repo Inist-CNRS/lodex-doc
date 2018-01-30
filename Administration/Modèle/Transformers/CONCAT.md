@@ -2,6 +2,10 @@
 
 Concatène les valeurs de deux colonnes du fichier tabulé de départ \(dans un tableau\).
 
+> **Remarque** : ce _transformer_ est caché, il est disponible dans le menu :
+>
+> ![](/assets/AdminModeleConcat.png)
+
 ## Exemple
 
 Fichier CSV :
@@ -18,7 +22,7 @@ Résultats :
 1. `[ "prem", "ière" ]`
 2. `[ "deux", "ième" ]`
 
-> `Remarque: pour concaténer des chaînes de caractères, on peut utiliser CONCAT conjointement avec`[`JOIN`](/Administration/Modèle/Transformers/JOIN.md)`.`
+
 
 
 
