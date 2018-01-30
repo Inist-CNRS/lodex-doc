@@ -1,6 +1,6 @@
 # CONCAT
 
-Concatène les valeurs de deux colonnes du fichier tabulé de départ \(renvoie une chaîne de caractères\).
+Concatène les valeurs de deux colonnes du fichier tabulé de départ.
 
 ## Exemple
 
@@ -17,8 +17,6 @@ Résultats :
 
 1. `première`
 2. `deuxième`
-
-
 
 
 
