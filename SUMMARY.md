@@ -12,20 +12,31 @@
   * [routines](/Configuration/routines/README.md)
   * [exporters](/Configuration/exporters/README.md)
 * [Administration](/Administration/README.md)
+
   * [login](/Administration/Login/README.md)
   * [modèle](/Administration/Modèle/README.md)
+
     * [export](/Administration/Modèle/Export/README.md)
     * [format](/Administration/Modèle/Format/README.md)
+
       * [Bubble Chart](/Administration/Modèle/Format/BubbleChart.md)
       * [Cartography](/Administration/Modèle/Format/Cartography.md)
       * [Code](/Administration/Modèle/Format/Code.md)
 
-      * [Distribution Charts](/Administration/Modèle/Format/Distribution Charts/README.md) \([Bar](/Administration/Modèle/Format/Distribution Charts/BarChart.md), [Pie](/Administration/Modèle/Format/Distribution Charts/PieChart.md), [Radar](/Administration/Modèle/Format/Distribution Charts/RadarChart.md)\)
+      * [Distribution Charts](/Administration/Modèle/Format/Distribution Charts/README.md)
+
+        * [Bar Chart](/Administration/Modèle/Format/Distribution Charts/BarChart.md)
+
+        * [Pie Chart](/Administration/Modèle/Format/Distribution Charts/PieChart.md)
+
+        * [Radar Chart](/Administration/Modèle/Format/Distribution Charts/RadarChart.md)
 
       * [Email](/Administration/Modèle/Format/Email.md)
 
       * [Emphased Number](/Administration/Modèle/Format/EmphasedNumber.md)
+
       * [Heat Map](/Administration/Modèle/Format/HeatMap.md)
+
       * [HTML](/Administration/Modèle/Format/Html.md)
       * [Identifier Badge](/Administration/Modèle/Format/IdentifierBadge.md)
       * [Image URL](/Administration/Modèle/Format/Image.md)
@@ -43,7 +54,9 @@
       * [Title](/Administration/Modèle/Format/Title.md)
       * [Trello Timeline](/Administration/Modèle/Format/TrelloTimeLine.md)
       * [Internal URI](/Administration/Modèle/Format/Uri.md)
+
     * [import](/Administration/Modèle/Import/README.md)
+
     * [routine](/Administration/Modèle/Routine/README.md)
     * [sémantique](/Administration/Modèle/Sémantique/README.md)
     * [transformers](/Administration/Modèle/Transformers/README.md)
@@ -65,8 +78,11 @@
       * [TRUNCATE](/Administration/Modèle/Transformers/TRUNCATE.md)
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
+
   * [modération](/Administration/Modération/README.md)
+
 * [Personnalisation du thème](/Thème/README.md)
+
 * [Contribution](/contribution.md)
 
 
