@@ -4,12 +4,12 @@ Rassemble les élements d'un tableau dans une chaîne de caractères, en les sé
 
 > **Attention **: la valeur de départ _doit_ être un tableau
 
-## Exemple
+## Exemples
 
 | Valeur de départ | Paramètre | Valeur d'arrivée |
 | :--- | :--- | :--- |
 | \[ "hello", "world" \] | " dear " | "hello dear world" |
-| \[ "pré", "fixe" \]  | "" | "préfixe" |
+| \[ "pré", "fixe" \] | "" | "préfixe" |
 
 > **À noter** : si le paramètre ne contient pas d'espace, les chaînes de caractères du tableau seront collées.
 
