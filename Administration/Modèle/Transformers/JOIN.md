@@ -1,0 +1,14 @@
+# JOIN
+
+Rassemble les élements d'un tableau dans une chaîne de caractères, en les séparant par la chaîne fournie par le paramètre.
+
+> **Attention **: la valeur de départ _doit_ être un tableau
+
+## Exemple
+
+| Valeur de départ | Paramètre | Valeur d'arrivée |
+| :--- | :--- | :--- |
+| \[ "hello", "world" \] | " dear " | "hello dear world" |
+
+
+
