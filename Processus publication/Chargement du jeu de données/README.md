@@ -10,5 +10,9 @@ Naviguez dans votre explorateur pour sélectionner le fichier à charger, puis c
 
 Le système vous propose cet écran :![](/assets/écranchargementdonnées4.png)
 
-Que lire sur cet écran :![](/assets/écranchargementdonnées5.png)Les trois actions permises à l'aide du **bouton + : **![](/assets/écranchargementdonnées6.png)
+Que lire sur cet écran :
+
+![](/assets/écranchargementdonnées5.png)
+
+Les trois actions permises à l'aide du **bouton + : **![](/assets/écranchargementdonnées6.png)
 
