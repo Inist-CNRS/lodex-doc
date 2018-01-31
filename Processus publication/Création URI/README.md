@@ -10,3 +10,7 @@ Le système vous propose trois possibilités :
 
 L'étape suivante consiste à paramétrer/styler les colonnes de votre tableau.
 
+
+
+
+
