@@ -1,6 +1,6 @@
 # Other - Resource
 
-Resource fait référence à une autre ressource du même jeu de données, ou d'une autre instance de LODEX publiquement accessible sur le web. Il affiche ainsi le _title_ et la _description_ de cette ressource.
+Resource fait référence à une autre ressource du même jeu de données, ou d'une autre instance de LODEX publiquement accessible sur le web. Il affiche ainsi le _title_ et la _description_ de cette ressource, et ajoute un lien vers cette ressource.
 
 ## ![](/assets/FormatLodexResource.png)
 
@@ -12,6 +12,4 @@ La valeur à fournir est:
 * l'URI de la ressource dans une autre instance de LODEX \(ex: `http://example.com/ark:/67375/RZL-020R6TTD-X`\)
 
 ![](/assets/FormatLodexResourceValeur.png)
-
-
 
