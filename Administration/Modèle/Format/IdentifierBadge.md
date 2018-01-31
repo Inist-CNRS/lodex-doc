@@ -13,3 +13,5 @@ Les paramètres sont :
 
 
 
+![](/assets/FormatIdentifierBadgeEditDOI.png)
+
