@@ -6,17 +6,29 @@ Pour chaque intitulé de colonne, le système vous propose cette fenêtre, corre
 
 ## Descriptif des 6 opérations :
 
+La public
+
 ### 1 - General informations
 
 Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new class ; Langue.![](/assets/parametrage3.png)
 
-### 2 - HOW THE VALUE IS GENERATED
+### 2 - How the value is generated
 
-Cette zone permet de définir comment est générer le contenu de la colonne à publier.
+Cette zone permet de définir comment est générer le contenu de la colonne à publier.![](/assets/parametrage4.png)
 
 ### **3 – Transformations applied on the value**
 
-Cette étape, vous permet d’appliquer différentes opérations de traitement de curation sur les données.![](/assets/parametrage4.png)Lorsque vous cliquez sur le bouton "**ADD AN OPERATION**", action qui est répétable, le système vous propose de sélectionner une action.
+Cette étape, vous permet d’appliquer différentes opérations \(transformers\) de traitement de curation sur les données.![](/assets/parametre5.png)
 
-L'ensemble des 
+Lorsque vous cliquez sur le bouton "**ADD AN OPERATION**", action qui est répétable, le système vous propose de sélectionner une action.
+
+La description ainsi que le fonctionnement de chacun des transformers est développée dans [cette section](/Administration/Modèle/Transformers/README.md).
+
+### **4 - Semantics**
+
+Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme ou nœud anonyme \(en anglais blank node ou bnode\). C’est une ressource, ou nœud d'un graphe RDF, qui n'est pas identifiée par une URI. Une ressource anonyme peut être sujet ou objet d'un triplet RDF. \(Voir Wikipédia : [https://fr.wikipedia.org/wiki/Ressource\_anonyme](https://fr.wikipedia.org/wiki/Ressource_anonyme)\).
+
+Deux possibilités vous sont offertes.
+
+
 
