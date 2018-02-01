@@ -32,7 +32,11 @@ Le nom du champ se trouve dans l'administration, en cliquant sur `Model` / `View
 
 LODEX liste alors les champs du modèle \(ceux du niveau Dataset, et ceux qui s'appliquent à chaque Document\), avec une colonne `Identifier` qui permet de trouver l'identifiant du champ à utiliser.![](/assets/AdminModelViewFields.png)En l'occurrence, on trouve `kMul`.
 
-> **Conseil** : il peut être utile, si le contenu du champ doit être affiché dans les ressources, de créer un deuxième champ dédié au réseau, afin de pouvoir spécifier qu'il ne s'affiche ni la page listant les ressources ni dans la page des ressources. Ce champ aura la même valeur que celui affiché.
+> **Conseil** : il peut être utile, si le contenu du champ doit aussi être affiché dans les ressources, de créer un deuxième champ dédié au réseau, afin de pouvoir spécifier qu'il ne s'affiche ni dans la page listant les ressources ni dans la page des ressources. Ce champ aura la même valeur que celui affiché.
 
 ![](/assets/FormatNetworkFieldParameters.png)
+
+La routine `/api/run/graph-by/kMul/` renvoie un JSON de cette forme :
+
+![](/assets/RoutineGraphByJson.png)
 
