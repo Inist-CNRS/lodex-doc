@@ -14,5 +14,9 @@ Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new
 
 Cette zone permet de définir comment est générer le contenu de la colonne à publier.
 
+### **3 – Transformations applied on the value**
 
+Cette étape, vous permet d’appliquer différentes opérations de traitement de curation sur les données.![](/assets/parametrage4.png)Lorsque vous cliquez sur le bouton "**ADD AN OPERATION**", action qui est répétable, le système vous propose de sélectionner une action.
+
+L'ensemble des 
 

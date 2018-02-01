@@ -6,7 +6,7 @@ Pour cela, il vous suffit de cliquer sur le bouton "URI" précédemment cité.
 
 Le système vous propose trois possibilités :
 
-![](/assets/créationuri.png)
+![](/assets/creation.png)
 
 Après sélection d'un des choix, cliquez sur le **bouton SAVE.**
 
