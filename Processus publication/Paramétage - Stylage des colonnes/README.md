@@ -4,3 +4,9 @@ Pour ce faire, vous devez activez le bouton "**+**" précédemment décrit. Le s
 
 Pour chaque intitulé de colonne, le système vous propose cette fenêtre, correspondant aux **six opérations** possibles et à la visualisation du résultat du traitement effectué sur cette colonne  :![](/assets/parametrage2.png)NB : dans l'exemple présenté, nous avons sélection la colonne "Nom de l'établissement".
 
+## Descriptif des 6 opérations : 
+
+### 1 - General informations
+
+
+
