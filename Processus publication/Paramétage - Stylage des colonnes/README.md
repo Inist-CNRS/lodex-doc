@@ -12,7 +12,7 @@ Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new
 
 ### 2 - HOW THE VALUE IS GENERATED
 
-Cette zone permet de définir comment est générer le contenu de la colonne à publier. 	
+Cette zone permet de définir comment est générer le contenu de la colonne à publier.
 
 
 
