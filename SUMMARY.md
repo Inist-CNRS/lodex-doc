@@ -30,7 +30,6 @@
       * [Identifier Badge](/Administration/Modèle/Format/IdentifierBadge.md)
       * [Image URL](/Administration/Modèle/Format/Image.md)
       * [ISTEX Query](/Administration/Modèle/Format/Istex.md)
-      * [External URL](/Administration/Modèle/Format/Link.md)
       * [Link Image](/Administration/Modèle/Format/LinkImage.md)
       * [List content](/Administration/Modèle/Format/List.md)
       * [Resource](/Administration/Modèle/Format/LodexResource.md)
@@ -73,4 +72,6 @@
     * [Stylage des colonnes](/Processus publication/Paramétrage/stylage des colonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
 * [Contribution](/contribution.md)
+
+
 
