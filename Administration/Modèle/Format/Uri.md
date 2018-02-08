@@ -12,3 +12,13 @@ Si la valeur est un ARK \(commençant par `ark:/`\) ou un UID \(commençant par 
 
 Si la valeur ne commence ni par `ark:/`, ni par `uid:/`, ni par `http://`, elle est considérée comme un identifiant UID.
 
+## Paramètres
+
+Le paramètre consiste à choisir quel sera la libellé du lien construit.
+
+Par défaut, ce sera l'identifiant lui-même, mais on peut choisir un texte constant ou le contenu d'un autre champ.
+
+TODO
+
+
+
