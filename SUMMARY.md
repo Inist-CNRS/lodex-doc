@@ -45,6 +45,7 @@
     * [import](/Administration/Modèle/Import/README.md)
     * [routine](/Administration/Modèle/Routine/README.md)
     * [sémantique](/Administration/Modèle/Sémantique/README.md)
+    * [syndication](/Administration/Modèle/Syndication/README.md)
     * [transformers](/Administration/Modèle/Transformers/README.md)
       * [AUTOGENERATE\_URI](/Administration/Modèle/Transformers/AUTOGENERATE_URI.md)
       * [BOOLEAN](/Administration/Modèle/Transformers/BOOLEAN.md)
