@@ -8,5 +8,9 @@ Le `username` et le `password` doivent correspondre à ceux renseignés dans le 
 
 > **Remarque** : si vous étiez déjà connecté en tant que visiteur et que vous connectez via le bouton d'administration, vous pouvez saisir les identifiants administrateurs, pour obtenir les droits d'administration.
 
+> Remarque : pour voir les possibilités offertes à un simple utilisateur, vous pouvez vous déconnecter, en utilisant le bouton `Sign out` présent en haut à droite, dans le menu d'administration.
+>
+> ![](/assets/AdministrationLoginSignOut.png)
+
 
 
