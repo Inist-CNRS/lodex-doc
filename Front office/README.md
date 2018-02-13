@@ -2,7 +2,10 @@
 
 Lorsque que vous ouvrez un jeu de données, vous accédez à la home page :
 
-![](/assets/frontoffice.png)
+![](/assets/frontofficeaffichagehomepage.png)Se référer à l'étape "1-General Information" pour la déclaration de la répartition des informations entre le jeu de données proprement dit et les ressources.
 
-Le paramétrage de l'affichage de cette page \(home page\) est réalisé lors de l'étape "5 – How and where it is display" lors du [paramétrage/stylage du jeu de données](/Processus publication/Paramétage - Stylage des colonnes/README.md).
+De plus, lorsque vous sélectionnez une ressource, vous accédez à son affichage complet \(ensemble des qualificatifs\) :![](/assets/frontofficeaffichagecomplet.png)
 
+Lorsque vous cliquez sur le nom de votre jeu de données, vous accédez à l'affichage GRAPH LIST :
+
+![](/assets/frontofficeaffichagegraphlist.png)

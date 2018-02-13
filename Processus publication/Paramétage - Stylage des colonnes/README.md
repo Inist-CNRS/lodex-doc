@@ -4,7 +4,7 @@ Pour ce faire, vous devez activez le bouton "**+**" précédemment décrit. Le s
 
 Pour chaque intitulé de colonne, le système vous propose cette fenêtre, correspondant aux **six opérations** possibles et à la visualisation du résultat du traitement effectué sur cette colonne  :![](/assets/parametrage2.png)NB : dans l'exemple présenté, nous avons sélection la colonne "Nom de l'établissement".
 
-## Descriptif des 6 opérations :
+## Descriptif des 6 étapes :
 
 La public
 
@@ -29,4 +29,8 @@ La description ainsi que le fonctionnement de chacun des transformers est dével
 Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme ou nœud anonyme \(en anglais blank node ou bnode\). C’est une ressource, ou nœud d'un graphe RDF, qui n'est pas identifiée par une URI. Une ressource anonyme peut être sujet ou objet d'un triplet RDF. \(Voir Wikipédia : [https://fr.wikipedia.org/wiki/Ressource\_anonyme](https://fr.wikipedia.org/wiki/Ressource_anonyme)\).
 
 Deux possibilités vous sont offertes : ![](/assets/parametre6.png)
+
+### 5 – How and where it is display
+
+Cette opération vous permet de paramétrer l'affichage de la home page et de la page ressource.
 
