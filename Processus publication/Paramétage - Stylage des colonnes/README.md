@@ -34,3 +34,7 @@ Deux possibilités vous sont offertes : ![](/assets/parametre6.png)
 
 Cette opération vous permet de paramétrer l'affichage de la home page et de la page ressource.
 
+Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(entête et contenu\) avait comme coverage "Different for each resource" alors, vous avez cette fenêtre à remplir : 
+
+
+
