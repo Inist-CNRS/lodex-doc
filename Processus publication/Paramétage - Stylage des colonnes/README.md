@@ -42,5 +42,9 @@ Lors de l'étape "1-General Informations", si vous avez indiqué que votre colon
 
 ### **6 –Search related**
 
+Lors de cette dernière opération, vous décidez si vos données vont être interrogeable et ou constituer une facette à partir de l'affichage "GRAPHLIST".
+
+![](/assets/searchrelated.png)
+
 
 
