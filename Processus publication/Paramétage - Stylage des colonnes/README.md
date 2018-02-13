@@ -1,6 +1,8 @@
 # Le paramétrage/stylage des colonnes
 
-Pour ce faire, vous devez activez le bouton "**+**" précédemment décrit. Le système se met en mode paramétrage/stylage . Le bouton "**ADD TO PUBLICATION**" apparaît pour chacune des colonnes à traiter.![](/assets/paramétrage1.png)Il est à noter, qu’il faudra recommencer cette action autant de fois que vous avez de colonnes.
+Pour ce faire, vous devez activez le bouton "**+**" précédemment décrit. Le système se met en mode paramétrage/stylage . Le bouton "**ADD TO PUBLICATION**" apparaît pour chacune des colonnes à traiter. Il est à noter, qu’il faudra recommencer cette action autant de fois que vous avez de colonnes.
+
+Après chaque opération, cliquez sur le bouton "SAVE" pour enregistrer votre choix, sur le bouton "CANCEL" pour annuler votre choix. Les bouton "PREVIOUS" et "NEXT" vous permette de naviguer d'une opération à l'autre.
 
 Pour chaque intitulé de colonne, le système vous propose cette fenêtre, correspondant aux **six opérations** possibles et à la visualisation du résultat du traitement effectué sur cette colonne  :![](/assets/parametrage2.png)NB : dans l'exemple présenté, nous avons sélection la colonne "Nom de l'établissement".
 
@@ -36,7 +38,7 @@ Cette opération vous permet de paramétrer l'affichage de la home page et de la
 
 Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(entête et contenu\) avait comme coverage "Different for each resource" alors, vous avez cette fenêtre à remplir :
 
-![](/assets/affichageressource.png)Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(entête et contenu\) avait comme coverage "Apply to whole dataset" alors, vous avez cette fenêtre à remplir :
+![](/assets/affichageressource.png)
 
-
+Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(entête et contenu\) avait comme coverage "Apply to whole dataset" alors, vous avez cette fenêtre à remplir :![](/assets/affichagehomepage.png)
 
