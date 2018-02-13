@@ -14,5 +14,5 @@ De plus, lorsque vous sélectionnez une ressource, vous accédez à son affichag
 
 Lorsque vous cliquez sur le nom de votre jeu de données, vous accédez à l'affichage GRAPH LIST :
 
-![](/assets/frontofficeaffichagegraphlist.png)
+![](/assets/frontaofficeaffichagegraphlist.png)
 

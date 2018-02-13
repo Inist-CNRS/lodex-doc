@@ -4,11 +4,9 @@ Pour ce faire, vous devez activez le bouton "**+**" précédemment décrit. Le s
 
 Après chaque opération, cliquez sur le bouton "SAVE" pour enregistrer votre choix, sur le bouton "CANCEL" pour annuler votre choix. Les bouton "PREVIOUS" et "NEXT" vous permette de naviguer d'une opération à l'autre.
 
-Pour chaque intitulé de colonne, le système vous propose cette fenêtre, correspondant aux **six opérations** possibles et à la visualisation du résultat du traitement effectué sur cette colonne  :![](/assets/parametrage2.png)NB : dans l'exemple présenté, nous avons sélection la colonne "Nom de l'établissement".
+Pour chaque intitulé de colonne, le système vous propose cette fenêtre, correspondant aux **six opérations** possibles et à la visualisation du résultat du traitement effectué sur cette colonne  :![](/assets/parametrage2.png)NB : dans l'exemple présenté, nous avons sélection la colonne "Nom de l'établissement" et "Concept fr".
 
 ## Descriptif des 6 étapes :
-
-La public
 
 ### 1 - General informations
 
@@ -41,4 +39,8 @@ Lors de l'étape "1-General Informations", si vous avez indiqué que votre colon
 ![](/assets/affichageressource.png)
 
 Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(entête et contenu\) avait comme coverage "Apply to whole dataset" alors, vous avez cette fenêtre à remplir :![](/assets/affichagehomepage.png)
+
+### **6 –Search related**
+
+
 
