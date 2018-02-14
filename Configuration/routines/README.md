@@ -74,6 +74,16 @@ D'ailleurs, LODEX fournit sa propre série d'instructions:
 
 On peut ajouter des sections \[assign\] n'importe où dans le fichier de routine, elles servent à affecter une valeur à une variable.
 
+Exemple:
+
+```js
+[assign]
+path = total
+value = get('total')
+```
+
+Cette section affecte la valeur du champ `total` à la variable du même nom.
+
 ## Routines fournies par LODEX
 
 * all-documents
@@ -84,9 +94,37 @@ On peut ajouter des sections \[assign\] n'importe où dans le fichier de routine
 * distinct-by
 * syndication
 
+Pour pouvoir utiliser une des routines de LODEX, il faut qu'elle soit déclarée dans le champ `routines` du fichier de configuration.
+
 ## Routines externes
 
 Il est possible d'écrire ses propres routines, et de les rendre accessibles à LODEX sans avoir le droit de modifier LODEX. Il suffit pour cela de mettre les fichiers sur le web, et de renseigner LODEX sur leur emplacement, en utilisant le champ `pluginsURL` du fichier de configuration.
 
 Exemple: `"pluginsURL": "https://raw.githubusercontent.com/Inist-CNRS/lodex-extented/master/routines/"`
+
+## Déclaration dans la configuration
+
+Pour qu'une routine soit utilisable dans LODEX via son API, il est nécessaire de la déclarer dans sa configuration.
+
+Exemple:
+
+```json
+  "pluginsURL" : "https://raw.githubusercontent.com/Inist-CNRS/lodex-extented/master/",
+  "routines": [
+    "hello-world",
+    "all-fields",
+    "all-resources",
+    "all-documents",
+    "syndication",
+    "count-by-fields",
+    "count-all",
+    "distinct-by",
+    "pairing-with",
+    "graph-by",
+    "distinct-ISO3166-1-alpha3-from",
+    "distinct-ISO3166-1-alpha2-from"
+  ],
+```
+
+
 
