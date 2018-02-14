@@ -14,7 +14,7 @@ Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant
 * [routines](/Configuration/routines/README.md) / routinesRepository \(_optionnel:_ utilisé avec les formats graphiques\)
 * [exporters](/Configuration/exporters/README.md) \(liste des formats d'export à afficher\)
 * \[languages\]\(/Configuration/Langue de l'interface/README.md\) \(liste des traductions de l'interface utilisateur à rendre disponibles\)
-* topFieldsCount, perPage \(...\)
+* topFieldsCount \(...\)
 * [réglages sémantiques](/Configuration/Linked Open Data/README.md) \(_optionnel:_ exposer ses données suivant les formats du web sémantique\)
 
 ![](/assets/panneaudedonfiguration.png)
