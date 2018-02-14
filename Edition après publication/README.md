@@ -1,5 +1,7 @@
 # Edition ou paramétrage après publication
 
+1. ## Cas de l'administrateur du jeu de données
+
 Si vous être _**administrateur**_ de votre jeu de données, vous avez la possibilité de mettre à jour vos données après publication.
 
 Pour cela, cliquez sur le bouton en bas à droite, vous permettant d'accéder au back-office, puis authentifiez vous.
