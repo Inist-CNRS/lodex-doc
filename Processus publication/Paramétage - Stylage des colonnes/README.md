@@ -46,5 +46,7 @@ Lors de cette dernière opération, vous décidez si vos données vont être int
 
 ![](/assets/searchrelated.png)
 
+Maintenant, l'ultime correspond à la publication de votre jeu de données, en cliquant sur le bouton "PUBLISH" en haut à droite :
 
+![](/assets/publicationjeudedonnées.png)
 
