@@ -28,7 +28,7 @@ La description ainsi que le fonctionnement de chacun des transformers est dével
 
 Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme ou nœud anonyme \(en anglais blank node ou bnode\). C’est une ressource, ou nœud d'un graphe RDF, qui n'est pas identifiée par une URI. Une ressource anonyme peut être sujet ou objet d'un triplet RDF. \(Voir Wikipédia : [https://fr.wikipedia.org/wiki/Ressource\_anonyme](https://fr.wikipedia.org/wiki/Ressource_anonyme)\).
 
-Deux possibilités vous sont offertes : ![](/assets/parametre6.png)
+**Deux** possibilités vous sont offertes : ![](/assets/parametre6.png)
 
 ### 5 – How and where it is display
 
