@@ -68,6 +68,7 @@
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
   * [modération](/Administration/Modération/README.md)
+  * [importer des données supplémentaires](/Administration/Importer plus/README.md)
 * [Processus de publication](processus-de-publication.md)
   * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
   * [Création URI](/Processus publication/Création URI/README.md)
