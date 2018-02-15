@@ -1,6 +1,6 @@
 # Edition ou paramétrage après publication
 
-1. ## Cas de l'administrateur du jeu de données
+1. ## Vous êtes l'administrateur du jeu de données
 
 Si vous être _**administrateur**_ de votre jeu de données, vous avez la possibilité de mettre à jour vos données après publication.
 
@@ -13,7 +13,16 @@ Pour cela, cliquez sur le bouton en bas à droite, vous permettant d'accéder au
 
 4.lorsque vous cliquez sur le bouton"VIEW MODEL" de la page d'administration, vous arrivez sur la page ci-dessous.
 
-Sur celle-çi, différentes actions vous sont proposées : 
+Sur celle-çi, différentes actions vous sont proposées :
 
- ![](/assets/editionaffichagepageadministration.png)
+1. ## ![](/assets/editionaffichagepageadministration.png)
+2. ## Vous êtes internaute
+
+Si vous internaute, au niveau de l'affichage complet d'une ressource, vous avez la possibilité d'ajouter des qualificatif à une ressource et exporter les données de cette ressource. Tandis que pour l'affichage GRAPH LIST, vous avez la possibilité d'exporter l'ensemble des données de votre jeu de données :                                                                                                                                             ![](/assets/editionpageinternaute.png)
+
+
+
+
+
+
 
