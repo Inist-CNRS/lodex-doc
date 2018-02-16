@@ -1,6 +1,6 @@
 # Routines
 
-Les routines de LODEX sont des scripts, stockable n'importe où sur le web, ou fournies par LODEX, qui peuvent effectuer des agrégations, des calculs, des reformatages et renvoient des données utilisables \(souvent par un [format](/Administration/Modèle/Format/README.md) de type graphique\).
+Les routines de LODEX sont des scripts, fournis par LODEX, ou stockables n'importe où sur le web, qui peuvent effectuer des agrégations, des calculs, des reformatages et renvoyer des données sous une forme utilisable \(souvent par un [format](/Administration/Modèle/Format/README.md) de type graphique\).
 
 Les routines sont appelées via l'API web de LODEX, et s'appliquent à un champ. Quand on connaît le nom de la routine à utiliser \(disons `routine-exemple`\), il suffit de l'ajouter derrière `/api/run/` pour obtenir la _route_ à utiliser \(comme valeur de champ pour un format graphique\): `/api/run/routine-exemple`.
 
@@ -58,7 +58,7 @@ Les routines sont stockées dans des fichiers dont l'extension est `.ini`.
 
 Un commentaire est une ligne commençant par `#`.
 
-Le fichier est séparé en sections dont le nom est donnée entre crochets.
+Le fichier est séparé en sections dont le nom est donné entre crochets.
 
 ### Entête
 
@@ -75,7 +75,7 @@ Dans cette section, on déclare les plugins qu'on va utiliser dans la routine.
 
 Pour trouver une liste des plugins disponibles, voir la page [https://www.npmjs.com/browse/keyword/ezs](https://www.npmjs.com/browse/keyword/ezs).
 
-Chaque plugin commence par `ezs-`, par exemple `ezs-basics` est le plugin `basics`, qui fournit une série d'instructions:
+Sur cette page, chaque plugin commence par `ezs-`, par exemple `ezs-basics` est le plugin connu par LODEX sous le nom  de `basics`, qui fournit une série d'instructions:
 
 * BUFObject
 * CSVObject
