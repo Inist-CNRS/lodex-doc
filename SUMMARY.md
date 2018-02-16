@@ -17,8 +17,10 @@
   * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
   * [Création de l'URI](/Processus publication/Création URI/README.md)
   * [Paramétrage-stylage des colonnes](/Processus publication/Paramétage - Stylage des colonnes/README.md)
+* [Personnalisation du thème](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#)
+
 * [Édition après publication](/Edition après publication/README.md)
-* [Personnalisation du thème](/Thème/README.md)
+
 * [Administration](/Administration/README.md)
 
   * [login](/Administration/Login/README.md)
