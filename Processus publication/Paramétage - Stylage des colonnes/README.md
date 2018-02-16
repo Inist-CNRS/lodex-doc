@@ -1,4 +1,4 @@
-#  Le paramétrage/stylage des colonnes
+# Le paramétrage/stylage des colonnes
 
 Pour ce faire, vous devez activez le bouton "**+**" [précédemment décrit](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#/edit/master/assets/écranchargementdonnées6.png?_k=5jwyv7). Le système se met en mode paramétrage/stylage.
 
@@ -14,7 +14,7 @@ Pour chaque intitulé de colonne, le système vous propose cette fenêtre, corre
 
 ### 1 - General informations
 
-Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new class ; Langue.![](/assets/parametrage3.png)
+Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new class ; Langue.![](/assets/parametrage3.png)Les rubriques "scheme" et "add a new class" sont à renseigner uniquement dans le cas où vous souhaitez publier votre jeu de données selon les normes du web sémantiques. 
 
 ### 2 - How the value is generated
 
@@ -36,7 +36,7 @@ Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme
 
 ### 5 – How and where it is display
 
-Cette opération vous permet de paramétrer l'affichage de la home page et de la page ressource.
+Cette opération vous permet de paramétrer l'affichage de la home page, l'affichage complet d'une  ressource et l'aafichage GraphLIST. Pour rappel relire le descriptif de l'[affichages Front office](/Affichages front office/README.md).
 
 Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(en tête et contenu\) avait comme coverage "Different for each resource" alors, vous avez cette fenêtre à remplir :
 
@@ -56,22 +56,27 @@ Pour ce faire, ajouter une nouvelle colonne à votre jeu de données cliquez sur
 
 remplir les champs : 1 "**General informations**" :
 
-                                                   label : Liste des ressources \(par exemple\)
+```
+                                               label : Liste des ressources \(par exemple\)
 
-                                                   select a coverage : Apply to whole dataset
+                                               select a coverage : Apply to whole dataset
+```
 
 **                                     2  "How the is generated" :**
 
-                                                    An arbitary value :  /api/run/syndication 
+```
+                                                An arbitary value :  /api/run/syndication 
 
-                                    **  5 "How and where it is displayed" :**
+                                **  5 "How and where it is displayed" :**
 
-                                                   Cochez uniquement la case "Display in home page"
+                                               Cochez uniquement la case "Display in home page"
 
-                                                    Apply a format : Sélectionner : Other - Resources Grid**    
-**
+                                                Apply a format : Sélectionner : Other - Resources Grid**    
+```
 
-Maintenant, l'ultime correspond à la publication de votre jeu de données, en cliquant sur le bouton "PUBLISH" en haut à droite :
+\*\*
+
+Maintenant, l'ultime étape correspond à la publication de votre jeu de données, en cliquant sur le bouton "PUBLISH" en haut à droite :
 
 ![](/assets/publicationjeudedonnées.png)
 

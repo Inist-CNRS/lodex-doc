@@ -10,3 +10,9 @@ Les trois étapes nécessaires à la publication d'un jeu de données sont consi
 
 Après avoir réalisé les différentes opérations liées à ces trois étapes, votre jeu de données pourra être publié et vous aurez constitué un [modèle](/Administration/Modèle/README.md).
 
+Au delà de cette option, si au préalable vous avez déjà créer un modèle et exporter ce dernier, il vous est possible de le réutiliser et de l'ajuster si nécessaire.
+
+Pour cela, il vous suffit de cliquer sur le bouton "IMPORT MODEL" pour aller récupérer le modèle stocker sur votre disque dur.
+
+![](/assets/parametre7.png)Reste à vous, si nécessaire de modifier le paramétrage de chacune des colonnes, d'enlever et d'ajouter une ou plusieurs colonnes.
+
