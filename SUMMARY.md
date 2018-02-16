@@ -13,7 +13,7 @@
   * [exporters](/Configuration/exporters/README.md)
 * [Affichages Front office](/Affichages front office/README.md)
   * [Accès restreint](/Affichages front office/Accès restreint/README.md)
-* [Processus de publication](processus-de-publication.md)
+* [Processus de publication](/Processus publication/README.md)
   * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
   * [Création de l'URI](/Processus publication/Création URI/README.md)
   * [Paramétrage-stylage des colonnes](/Processus publication/Paramétage - Stylage des colonnes/README.md)
