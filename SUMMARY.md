@@ -16,7 +16,7 @@
 * [Processus de publication](/Processus publication/README.md)
   * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
   * [Création de l'URI](/Processus publication/Création URI/README.md)
-  * [Paramétrage-stylage des colonnes](/Processus publication/Paramétage - Stylage des colonnes/README.md)
+  * [Paramétrage-stylage des colonnes](/Processus publication/Paramétrage - Stylage des colonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
 
 * [Édition après publication](/Edition après publication/README.md)
