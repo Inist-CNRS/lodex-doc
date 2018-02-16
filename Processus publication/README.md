@@ -1,6 +1,6 @@
 # Processus publication
 
-Au préalable, avant de débuter ce processus de publication, il est impératif d'avoir pris connaissance des différents [affichage du front office](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#/edit/master/Affichages front office/README.md?_k=sbmukc). Effectivement, le résultat des différentes opérations de ce processus conduit aux différents affichages.
+Au préalable, avant de débuter ce processus de publication, il est impératif d'avoir pris connaissance des différents [affichage du front office](/Affichages front office/README.md). Effectivement, le résultat des différentes opérations de ce processus conduit aux différents affichages.
 
 Les trois étapes nécessaires à la publication d'un jeu de données sont consignées dans ce chapitre :
 
