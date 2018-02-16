@@ -14,9 +14,6 @@ Elle suit la syntaxe d'interrogation de l'[API ISTEX](https://api.istex.fr/docum
 
 Valeur : `categories.inist.raw:("4 - vertebres: systeme cardiovasculaire")`
 
-![](/assets/FormatIstexValue.png)
+![Exemple de requête ISTEX](/assets/FormatIstexValue.png)
 
 > **Remarque** : la propriété sémantique \(scheme\) utilisée pour une requête ISTEX est [istex:query](https://data.istex.fr/ontology/istex#query)
-
-
-

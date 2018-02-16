@@ -12,8 +12,3 @@ Voyez la documentation \(en anglais\) de la syntaxe Markdown:
 * [CommonMark Spec](http://spec.commonmark.org/0.28/)
 
 Vous pouvez aussi tester la syntaxe en utilisant la [markdown-it demo](https://markdown-it.github.io/) \([markdown-it](https://www.npmjs.com/package/markdown-it) étant la bibliothèque que nous utilisons pour rendre le HTML\).
-
-
-
-
-

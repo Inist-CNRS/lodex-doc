@@ -19,6 +19,3 @@ Le paramètre consiste à choisir quel sera la libellé du lien construit.
 Par défaut, ce sera l'identifiant lui-même, mais on peut choisir un texte constant ou le contenu d'un autre champ.
 
 TODO
-
-
-

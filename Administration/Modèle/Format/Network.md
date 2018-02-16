@@ -2,7 +2,7 @@
 
 Le format Network représente la valeur du champ sous forme de réseau \([graphe](https://fr.wikipedia.org/wiki/Théorie_des_graphes) non orienté au sens mathématique\).
 
-![](/assets/FormatNetwork.png)
+![Exemple de Graph](/assets/FormatNetwork.png)
 
 La largeur des liens est calculée automatiquement en fonction du poids de ces liens.
 
@@ -14,13 +14,13 @@ La position des nœuds est calculée automatiquement, et est dynamique \(cela pe
 
 ## Paramètre
 
-![](/assets/FormatNetworkParameters.png)
+![Paramètre du format Graph: la couleur des nœuds](/assets/FormatNetworkParameters.png)
 
 Ce format n'a qu'un seul paramètre : la couleur des nœuds.
 
 ## Valeur
 
-![](/assets/FormatNetworkValue.png)
+![Valeur pour le format Graph: une routine](/assets/FormatNetworkValue.png)
 
 La valeur à fournir à ce format est moins triviale que pour les formats textuels. Comme il faut obtenir les données dans le bon format, on passe par le mécanisme des [routines](/Administration/Modèle/Routine/README.md).
 
@@ -28,15 +28,16 @@ En l'occurrence, on utilise la routine `graph-by`, associée à l'identifiant du
 
 Le nom du champ se trouve dans l'administration, en cliquant sur `Model` / `View Model`.
 
-![](/assets/AdminModelView.png)
+![Menu modèle de l'administration](/assets/AdminModelView.png)
 
-LODEX liste alors les champs du modèle \(ceux du niveau Dataset, et ceux qui s'appliquent à chaque Document\), avec une colonne `Identifier` qui permet de trouver l'identifiant du champ à utiliser.![](/assets/AdminModelViewFields.png)En l'occurrence, on trouve `kMul`.
+LODEX liste alors les champs du modèle \(ceux du niveau Dataset, et ceux qui s'appliquent à chaque Document\), avec une colonne `Identifier` qui permet de trouver l'identifiant du champ à utiliser.
+![Vue du modèle](/assets/AdminModelViewFields.png)
+En l'occurrence, on trouve `kMul`.
 
 > **Conseil** : il peut être utile, si le contenu du champ doit aussi être affiché dans les ressources, de créer un deuxième champ dédié au réseau, afin de pouvoir spécifier qu'il ne s'affiche ni dans la page listant les ressources ni dans la page des ressources. Ce champ aura la même valeur que celui affiché.
 
-![](/assets/FormatNetworkFieldParameters.png)
+![Paramètres d'un champ](/assets/FormatNetworkFieldParameters.png)
 
 La routine `/api/run/graph-by/kMul/` renvoie un JSON de cette forme :
 
-![](/assets/RoutineGraphByJson.png)
-
+![Ce que renvoie la routine](/assets/RoutineGraphByJson.png)

@@ -7,4 +7,3 @@ Les diagrammes de distribution fonctionnent de la même manière \(avec les mêm
 * les [radars](/Administration/Modèle/Format/Distribution Charts/RadarChart.md)
 
 TODO: préciser comment employer les routines pour formater les données à envoyer aux distributions.
-

@@ -2,16 +2,13 @@
 
 Ce format permet d'afficher un identifiant pérenne \(soit un DOI, soit un PMID\), et d'y ajouter un lien vers la ressource.
 
-![](/assets/FormatIdentifierBadgePMID.png)![](/assets/FormatIdentifierBadgeDOI.png)
+![Exemple d'Identifier Badge (PMID)](/assets/FormatIdentifierBadgePMID.png)![Exemple d'Identifier Badge (DOI)](/assets/FormatIdentifierBadgeDOI.png)
 
 Les paramètres sont :
 
 * le résolveur de lien
 * les couleurs
 
-![](/assets/FormatIdentifierBadgeParameters.png)
+![Paramètres du format Identifier Badge](/assets/FormatIdentifierBadgeParameters.png)
 
-
-
-![](/assets/FormatIdentifierBadgeEditDOI.png)
-
+![Édition de la valeur du DOI](/assets/FormatIdentifierBadgeEditDOI.png)

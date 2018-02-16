@@ -131,4 +131,3 @@ value = get('total')
 ```
 
 Cette section affecte la valeur du champ `total` à la variable du même nom.
-

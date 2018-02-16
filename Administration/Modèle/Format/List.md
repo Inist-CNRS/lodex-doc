@@ -6,11 +6,10 @@ Il peut arriver que la valeur d'un champ soit un tableau JSON \(à la suite de l
 
 ## Paramètres
 
-![](/assets/FormatListParameters.png)
+![Paramètres du format List Content](/assets/FormatListParameters.png)
 
 List est aussi capable d'afficher autre chose que du texte, c'est ce qui explique son premier paramètre: le format des valeurs elles-mêmes.
 
 On peut ensuite choisir si la liste est une liste à puces simple, ou une liste numérotée.
 
-![](/assets/FormatListParameterType.png)
-
+![Types de listes](/assets/FormatListParameterType.png)

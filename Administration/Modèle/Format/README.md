@@ -2,7 +2,7 @@
 
 À chaque champ du modèle, on peut associer un format qui conditionnera la manière dont ce champ sera affiché dans l'application. Par défaut, on affiche la valeur du champ comme une chaîne de caractères.
 
-![](/assets/AdminModeleFormat.png)
+![L'endroit où on applique un format](/assets/AdminModeleFormat.png)
 
 Les formats suivant sont disponibles :
 
@@ -30,6 +30,3 @@ Les formats suivant sont disponibles :
 * [Title](/Administration/Modèle/Format/Title.md)
 * [Trello Timeline](/Administration/Modèle/Format/TrelloTimeLine.md)
 * [Internal URI](/Administration/Modèle/Format/Uri.md)
-
-
-

@@ -17,5 +17,4 @@ Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant
 * topFieldsCount \(...\)
 * [réglages sémantiques](/Configuration/Linked Open Data/README.md) \(_optionnel:_ exposer ses données suivant les formats du web sémantique\)
 
-![](/assets/panneaudedonfiguration.png)
-
+![Fichier de configuration](/assets/panneaudedonfiguration.png)

@@ -2,7 +2,6 @@
 
 Le format Bubble Chart montre les proportions des différentes valeurs.
 
-![](/assets/FormatBubbleChart.png)
+![Exemple de Bubble Chart](/assets/FormatBubbleChart.png)
 
 TODO: compléter
-

@@ -6,7 +6,7 @@ Il permet aussi de zoomer sur l'image pour remplir la page, et revenir à la tai
 
 Son seul paramètre est la largeur de l'image \(en pourcentage de la largeur de l'application\).
 
-![](/assets/FormatImageParameters.png)
+![Paramètres du format Image](/assets/FormatImageParameters.png)
 
 Ce pourcentage est sélectionnable parmi:
 
@@ -16,8 +16,3 @@ Ce pourcentage est sélectionnable parmi:
 * 50%
 * 80%
 * 100%
-
-
-
-
-
