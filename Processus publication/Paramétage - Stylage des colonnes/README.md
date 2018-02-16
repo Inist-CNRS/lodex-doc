@@ -1,6 +1,6 @@
-# Le paramétrage/stylage des colonnes
+#  Le paramétrage/stylage des colonnes
 
-Pour ce faire, vous devez activez le bouton "**+**" [précédemment décrit](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#/edit/master/assets/%C3%A9cranchargementdonn%C3%A9es6.png?_k=5jwyv7). Le système se met en mode paramétrage/stylage.
+Pour ce faire, vous devez activez le bouton "**+**" [précédemment décrit](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#/edit/master/assets/écranchargementdonnées6.png?_k=5jwyv7). Le système se met en mode paramétrage/stylage.
 
 Pour paramétrer/styler les colonnes appartenant initialement à votre jeu de données, cliquez sur bouton "ADD A COLUMN FROM ORIGINAL DATASET",  le bouton "**ADD TO PUBLICATION**" apparaît pour chacune des colonnes à traiter. Il est à noter, qu’il faudra recommencer cette action autant de fois que vous avez de colonnes.
 
@@ -38,7 +38,7 @@ Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme
 
 Cette opération vous permet de paramétrer l'affichage de la home page et de la page ressource.
 
-Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(entête et contenu\) avait comme coverage "Different for each resource" alors, vous avez cette fenêtre à remplir :
+Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(en tête et contenu\) avait comme coverage "Different for each resource" alors, vous avez cette fenêtre à remplir :
 
 ![](/assets/affichageressource.png)
 
@@ -49,6 +49,27 @@ Lors de l'étape "1-General Informations", si vous avez indiqué que votre colon
 Lors de cette dernière opération, vous décidez si vos données vont être interrogeable et ou constituer une facette à partir de l'affichage "GRAPHLIST".
 
 ![](/assets/searchrelated.png)
+
+Les étapes décrites précédemment, ont permis de paramétrer/styler votre jeu de données. Il vous reste, maintenant une étape à réaliser afin de pouvoir afficher les informations qualifiants vos ressources sur la home page.
+
+Pour ce faire, ajouter une nouvelle colonne à votre jeu de données cliquez sur "ADD A NEW COLUMN", puis renseigner le formulaire de paramétrage comme suit :
+
+remplir les champs : 1 "**General informations**" :
+
+                                                   label : Liste des ressources \(par exemple\)
+
+                                                   select a coverage : Apply to whole dataset
+
+**                                     2  "How the is generated" :**
+
+                                                    An arbitary value :  /api/run/syndication 
+
+                                    **  5 "How and where it is displayed" :**
+
+                                                   Cochez uniquement la case "Display in home page"
+
+                                                    Apply a format : Sélectionner : Other - Resources Grid**    
+**
 
 Maintenant, l'ultime correspond à la publication de votre jeu de données, en cliquant sur le bouton "PUBLISH" en haut à droite :
 
