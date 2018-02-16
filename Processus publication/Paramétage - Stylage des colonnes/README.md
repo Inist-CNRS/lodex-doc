@@ -34,7 +34,7 @@ La description ainsi que le fonctionnement de chacun des transformers est dével
 
 Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme ou nœud anonyme \(en anglais blank node ou bnode\). C’est une ressource, ou nœud d'un graphe RDF, qui n'est pas identifiée par une URI. Une ressource anonyme peut être sujet ou objet d'un triplet RDF. \(Voir Wikipédia : [https://fr.wikipedia.org/wiki/Ressource\_anonyme](https://fr.wikipedia.org/wiki/Ressource_anonyme)\).
 
-**Deux** possibilités vous sont offertes : ![](/assets/parametre6.png)
+**Deux** possibilités vous sont offertes : ![](/assets/parametre6.png)Selon la nature de vos données, à vous retenir l'option qui convient.
 
 ### 5 – How and where it is display
 
@@ -48,7 +48,7 @@ Lors de l'étape "1-General Informations", si vous avez indiqué que votre colon
 
 ### **6 –Search related**
 
-Lors de cette dernière opération, vous décidez si vos données vont être interrogeable et ou constituer une facette à partir de l'affichage "GRAPHLIST".
+Lors de cette dernière opération, vous décidez si vos données vont être interrogeable ou non et ou constituer une facette sur sera accessible au niveau de l'affichage "GRAPHLIST".
 
 ![](/assets/searchrelated.png)
 
