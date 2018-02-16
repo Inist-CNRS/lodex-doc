@@ -6,6 +6,8 @@ Ces réglages sont mis dans un seul fichier JSON, appelé `config.json`  à la r
 
 Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant l'éditeur JSON d'ezmaster, les principes restent les mêmes.
 
+> **Remarque** : il est conseillé de s'occuper de ce fichier de configuration avant de passer à l'administration, en particulier pour `naan`, `subpublisher`, `routines` et réglages sémantiques. Toutes ces possibilités sont optionnelles.
+
 ## Réglages possibles
 
 * [username / password](/Configuration/Authentification/README.md)
@@ -14,8 +16,6 @@ Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant
 * [loader](/Configuration/loaders/README.md) \(liste et configuration des loaders utilisables\)
 * [routines](/Configuration/routines/README.md) / routinesRepository \(_optionnel:_ utilisé avec les formats graphiques\)
 * [exporters](/Configuration/exporters/README.md) \(liste des formats d'export à afficher\)
-* topFieldsCount \(...\)
 * [réglages sémantiques](/Configuration/Linked Open Data/README.md) \(_optionnel:_ exposer ses données suivant les formats du web sémantique\)
 
 ![Fichier de configuration](/assets/panneaudedonfiguration.png)
-
