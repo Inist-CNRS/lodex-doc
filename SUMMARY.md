@@ -7,6 +7,7 @@
   * [ezmaster](Installation/ezmaster.md)
 * [Configuration](/Configuration/README.md)
   * [authentification](/Configuration/Authentification/README.md)
+  * [restriction d'accès](/Configuration/Restriction d'accès/README.md)
   * [ARK](Configuration/ARK/README.md)
   * [loaders](/Configuration/loaders/README.md)
   * [routines](/Configuration/routines/README.md)
