@@ -14,7 +14,7 @@ Pour chaque intitulé de colonne, le système vous propose cette fenêtre, corre
 
 ### 1 - General informations
 
-Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new class ; Langue.![](/assets/parametrage3.png)Les rubriques "scheme" et "add a new class" sont à renseigner uniquement dans le cas où vous souhaitez publier votre jeu de données selon les normes du web sémantiques. 
+Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new class ; Langue.![](/assets/parametrage3.png)Les rubriques "scheme" et "add a new class" sont à renseigner uniquement dans le cas où vous souhaitez publier votre jeu de données selon les normes du web sémantiques.
 
 ### 2 - How the value is generated
 
@@ -71,12 +71,14 @@ remplir les champs : 1 "**General informations**" :
 
                                                Cochez uniquement la case "Display in home page"
 
-                                                Apply a format : Sélectionner : Other - Resources Grid**    
+                                                Apply a format : Sélectionner : Other - Resources Grid**
 ```
 
 \*\*
 
 Maintenant, l'ultime étape correspond à la publication de votre jeu de données, en cliquant sur le bouton "PUBLISH" en haut à droite :
+
+
 
 ![](/assets/publicationjeudedonnées.png)
 
