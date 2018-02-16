@@ -1,8 +1,12 @@
 # Le paramétrage/stylage des colonnes
 
-Pour ce faire, vous devez activez le bouton "**+**" précédemment décrit. Le système se met en mode paramétrage/stylage . Le bouton "**ADD TO PUBLICATION**" apparaît pour chacune des colonnes à traiter. Il est à noter, qu’il faudra recommencer cette action autant de fois que vous avez de colonnes.
+Pour ce faire, vous devez activez le bouton "**+**" [précédemment décrit](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#/edit/master/assets/%C3%A9cranchargementdonn%C3%A9es6.png?_k=5jwyv7). Le système se met en mode paramétrage/stylage.
 
-Après chaque opération, cliquez sur le bouton "SAVE" pour enregistrer votre choix, sur le bouton "CANCEL" pour annuler votre choix. Les bouton "PREVIOUS" et "NEXT" vous permette de naviguer d'une opération à l'autre.
+Pour paramétrer/styler les colonnes appartenant initialement à votre jeu de données, cliquez sur bouton "ADD A COLUMN FROM ORIGINAL DATASET",  le bouton "**ADD TO PUBLICATION**" apparaît pour chacune des colonnes à traiter. Il est à noter, qu’il faudra recommencer cette action autant de fois que vous avez de colonnes.
+
+Pour ajouter une nouvelle colonne à votre jeu de données cliquez sur "ADD A NEW COLUMN", puis renseigner le formulaire de paramétrage correspondant à six opérations à effectuer.
+
+NB : Après chaque opération, cliquez sur le bouton "SAVE" pour enregistrer votre choix, sur le bouton "CANCEL" pour annuler votre choix. Les bouton "PREVIOUS" et "NEXT" vous permette de naviguer d'une opération à l'autre.
 
 Pour chaque intitulé de colonne, le système vous propose cette fenêtre, correspondant aux **six opérations** possibles et à la visualisation du résultat du traitement effectué sur cette colonne  :![](/assets/parametrage2.png)NB : dans l'exemple présenté, nous avons sélection la colonne "Nom de l'établissement" et "Concept fr".
 
