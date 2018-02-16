@@ -14,7 +14,7 @@ Après avoir réalisé les différentes opérations liées à ces trois étapes,
 
 * ## Vous disposez déjà d'un modèle
 
-Au delà de cette option, si au préalable vous avez déjà créer un modèle et exporter ce dernier, il vous est possible de le réutiliser et de l'ajuster si nécessaire.
+Si au préalable vous avez déjà créer un modèle et exporter ce dernier, il vous est possible de le réutiliser et de l'ajuster si nécessaire.
 
 Pour cela, il vous suffit de cliquer sur le bouton "IMPORT MODEL" pour aller récupérer le modèle stocker sur votre disque dur.
 
