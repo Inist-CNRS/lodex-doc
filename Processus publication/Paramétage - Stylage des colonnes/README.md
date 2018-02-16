@@ -14,11 +14,13 @@ Pour chaque intitulé de colonne, le système vous propose cette fenêtre, corre
 
 ### 1 - General informations
 
-Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new class ; Langue.![](/assets/parametrage3.png)Les rubriques "scheme" et "add a new class" sont à renseigner uniquement dans le cas où vous souhaitez publier votre jeu de données selon les normes du web sémantiques.
+Six éléments sont à renseigner : Label ; Select a coverage ; scheme ; add new class ; Langue.![](/assets/parametrage3.png)Le label ainsi que le coverage sont à renseigner obligatoirement, mais à votre convenance.
+
+Les rubriques "scheme" et "add a new class" sont à renseigner uniquement dans le cas où vous souhaitez publier votre jeu de données selon les normes du web sémantiques.
 
 ### 2 - How the value is generated
 
-Cette zone permet de définir comment est générer le contenu de la colonne à publier.![](/assets/parametrage4.png)
+Cette zone permet de définir comment est générer le contenu de la colonne à publier.![](/assets/parametrage4.png)Par défaut, le système propose "A value from an existing column". A vous de valider ce choix ou de sélectionner une autre option.
 
 ### **3 – Transformations applied on the value**
 
@@ -77,8 +79,6 @@ remplir les champs : 1 "**General informations**" :
 \*\*
 
 Maintenant, l'ultime étape correspond à la publication de votre jeu de données, en cliquant sur le bouton "PUBLISH" en haut à droite :
-
-
 
 ![](/assets/publicationjeudedonnées.png)
 
