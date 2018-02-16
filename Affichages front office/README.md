@@ -4,17 +4,18 @@ Ces informations sont à lire avant de passer au processus de publication et plu
 
 Après publication, lorsque que vous ouvrez un jeu de données, vous accédez à la **home page** :
 
-## **Affichage home Page**
+## Affichage home Page
 
-![](/assets/frontofficeaffichagehomepage.png)Se référer à l'étape "1-General Information"  du processus de publication pour la déclaration de la répartition des informations entre le jeu de données proprement dit et les ressources.
+![Explication de la page d'accueil](/assets/frontofficeaffichagehomepage.png)
+Se référer à l'étape "1-General Information"  du processus de publication pour la déclaration de la répartition des informations entre le jeu de données proprement dit et les ressources. (TODO: Vérifier le lien)
 
-## **Affichage complet d'une ressource**
+## Affichage complet d'une ressource
 
-De plus, lorsque vous sélectionnez une ressource, vous accédez à son affichage complet \(ensemble des qualificatifs\) :![](/assets/frontofficeaffichagecomplet.png)
+De plus, lorsque vous sélectionnez une ressource, vous accédez à son affichage complet \(ensemble des qualificatifs\):
+![Affichage détaillé d'une ressource](/assets/frontofficeaffichagecomplet.png)
 
-## **Affichage GRAPH LIST d'une ressource**
+## Affichage GRAPH LIST des ressources
 
 Lorsque vous cliquez sur le nom de votre jeu de données, vous accédez à l'affichage GRAPH LIST :
 
-![](/assets/frontofficeaffichagegraphlist.png)
-
+![Liste des ressources](/assets/frontofficeaffichagegraphlist.png)
