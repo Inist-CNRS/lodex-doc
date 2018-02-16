@@ -11,7 +11,7 @@
   * [loaders](/Configuration/loaders/README.md)
   * [routines](/Configuration/routines/README.md)
   * [exporters](/Configuration/exporters/README.md)
-* [Front office](/Affichages front office/README.md)
+* [Affichages Front office](/Affichages front office/README.md)
   * [Accès restreint](/Affichages front office/Accès restreint/README.md)
 * [Processus de publication](processus-de-publication.md)
   * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
