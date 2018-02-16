@@ -1,6 +1,6 @@
 # Les informations présentes lors de l'affichage du front office
 
-Ces informations sont à lire avant de passer au processus de publication et plus particulièrement au [paramétrage/stylage des colonnes](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#/edit/master/Processus publication/Paramétage - Stylage des colonnes/README.md?_k=q6hdgq).
+Ces informations sont à lire avant de passer au processus de publication et plus particulièrement au [paramétrage/stylage des colonnes](/Processus publication/Paramétrage - Stylage des colonnes/README.md).
 
 Après publication, lorsque que vous ouvrez un jeu de données, vous accédez à la **home page** :
 
