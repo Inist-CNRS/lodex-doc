@@ -2,26 +2,32 @@
 
 LODEX a plusieurs formats d'export, et on peut choisir de les proposer ou non à l'utilisateur. Pour être affiché, un exporter doit être présent dans le tableau `exporters`.
 
-* N-Quads
-* N-Quads extended
-* CSV
-* TSV
-* JSON
-* Turtle
-* JSON-LD
-* JSONLD \(Compacted\)
+Les _exporters_ fournis par LODEX sont les suivants:
 
-## Exporters extended {#extended-exporters}
+* N-Quads : `nquads`
+* N-Quads étendus : `extendednquads`
+* CSV : `csv`
+* TSV : `tsv`
+* Turtle : `turtle`
+* ATOM : `atom`
+* JSON-LD : `jsonld`
+* JSONLD \(Compact\) : `jsonldcompacted`
+* Sitemap (pour le référencement) : `sitemap`
+* Widget (I-Frame) : `widget`
 
-The exporters extended use only the istex query format to the export. A lodex with any istex query columns is useless to these exporters.
+## Exporters étendus {#extended-exporters}
+
+Les _exporters_ étendus ne sont utiles quand un champ est de format ISTEX Query.
 
 ### N-Quads extended
 
-The exporter N-Quads extended returns the results of the istex query in istex API. The results is formatted in a [N-Quads format](https://www.w3.org/TR/n-quads/). The exporter add a named graph on the triples. This named graph is useful for the triplestore import.
+L'_exporter_ «N-Quads étendus» renvoie les résultats de la requête dans l'[API ISTEX](https://api.istex.fr). Ils sont formatés en [N-Quads](https://www.w3.org/TR/n-quads/).
 
-Lodex allows you to export the istex query fields in format **N-quads **with the `EZMASTER_PUBLIC_URL` to the named graph.
+Un graphe nommé, utile lors de l'import dans un triple store, est ajouté aux triplets (TODO: vérifier que c'est encore vrai).
 
-> Note: if you don't use `EZMASTER` , define the named graph with the property `graph` in `config.istexquery`:
+Le graphe nommé est formé à partir de la valeur de la variable d'environnement `EZMASTER_PUBLIC_URL`.
+
+> **Remarque** : si vous n'utilisez pas [ezMaster](https://github.com/Inist-CNRS/ezmaster/blob/master/README.md), définissez la propriété `graph` dans `config.istexquery`:
 
 ```json
 ...
@@ -30,29 +36,10 @@ Lodex allows you to export the istex query fields in format **N-quads **with the
 ...
 ```
 
-In the file `config.json`in lodex root, you can configure the export :
+Dans le fichier de configuration `config.json` vous pouvez configurer l'export:
 
 ```json
 ...
-    "prefixes":  {
-        "bibo": "http://purl.org/ontology/bibo/",
-        "dcdoc": "http://dublincore.org/documents/",
-        "dcmitype": "http://purl.org/dc/dcmitype/",
-        "dcterms": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
-        "gn": "http://www.geonames.org/ontology/ontology_v3.1.rdf/",
-        "owl": "http://www.w3.org/2002/07/owl#",
-        "prov": "http://www.w3.org/ns/prov#",
-        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-        "schema": "http://schema.org/",
-        "skos": "http://www.w3.org/2004/02/skos/core#",
-        "time": "http://www.w3.org/TR/owl-time/",
-        "xfoaf": "http://www.foafrealm.org/xfoaf/0.1/",
-        "xml": "http://www.w3.org/XML/1998/namespace",
-        "xsd": "http://www.w3.org/2001/XMLSchema#"
-    },
     "istexQuery" : {
        "labels": "",
        "linked": "language",
@@ -66,7 +53,7 @@ In the file `config.json`in lodex root, you can configure the export :
 
 #### Labels
 
-If labels is empty, all lodex fields in** ISTEX\_QUERY** **format** will be exported. You can also select your fields like :
+Si `labels` est vide, tous les champs du format Istex Query seront exportés (TODO: à expliciter, ce n'est pas clair). Vous pouvez aussi sélectionner les champs ISTEX de cette manière:
 
 ```json
 "istexQuery" : {
@@ -74,20 +61,14 @@ If labels is empty, all lodex fields in** ISTEX\_QUERY** **format** will be expo
     ...
 ```
 
-> Note: This is lodex's columns labels, not output in the istex API.
-
-![](/assets/lodex_istex_query.png)
+> Note: This is lodex's columns labels, not output in the istex API. (TODO: à vérifier)
 
 #### Context
 
-In `context` , you can add any informations from the istex query output, like the `doi` or the `language` . You can join the result with a predicate \( `prefixes:predicate` or an`url` \):
+Dans la propriété `context`, vous pouvez déclarer les champs de l'API ISTEX que vous voulez exporter, comme `doi` ou `language`. Vous pouvez préciser le propriété sémantique à utiliser pour chacun d'eux, en utilisant un préfixe (`prefix:property`) ou une URI complète.
 
 ```json
 ...
-"prefixes": {
-    "bibo": "http://purl.org/ontology/bibo/",
-    "dcterms": "http://purl.org/dc/terms/",
-},
 "istexQuery" : {
     "labels": "",
     "context": {
@@ -99,11 +80,32 @@ In `context` , you can add any informations from the istex query output, like th
 }
 ```
 
-### Lodex linker
+La liste des préfixes utilisables dans LODEX est [visible sur Github](https://github.com/Inist-CNRS/lodex/blob/master/src/common/prefixes.js), mais voilà la liste correspondant aux version 8.17+:
 
-In the exporter, you must add a link between istex data results and your lodex document.
+* bibo: [http://purl.org/ontology/bibo/](http://purl.org/ontology/bibo/)
+* dcdoc: [http://dublincore.org/documents/](http://dublincore.org/documents/)
+* dcmitype: [http://purl.org/dc/dcmitype/](http://purl.org/dc/dcmitype/)
+* dcterms: [http://purl.org/dc/terms/](http://purl.org/dc/terms/)
+* foaf: [http://xmlns.com/foaf/0.1/](http://xmlns.com/foaf/0.1/)
+* geo: [http://www.w3.org/2003/01/geo/wgs84_pos#](http://www.w3.org/2003/01/geo/wgs84_pos#)
+* gn: [http://www.geonames.org/ontology/ontology_v3.1.rdf/](http://www.geonames.org/ontology/ontology_v3.1.rdf/)
+* istex: [https://data.istex.fr/ontology/istex#](https://data.istex.fr/ontology/istex#)
+* owl: [http://www.w3.org/2002/07/owl#](http://www.w3.org/2002/07/owl#)
+* prov: [http://www.w3.org/ns/prov#](http://www.w3.org/ns/prov#)
+* rdf: [http://www.w3.org/1999/02/22-rdf-syntax-ns#](http://www.w3.org/1999/02/22-rdf-syntax-ns#)
+* rdfs: [http://www.w3.org/2000/01/rdf-schema#](http://www.w3.org/2000/01/rdf-schema#)
+* schema: [http://schema.org/](http://schema.org/)
+* skos: [http://www.w3.org/2004/02/skos/core#](http://www.w3.org/2004/02/skos/core#)
+* time: [http://www.w3.org/TR/owl-time/](http://www.w3.org/TR/owl-time/)
+* xfoaf: [http://www.foafrealm.org/xfoaf/0.1/](http://www.foafrealm.org/xfoaf/0.1/)
+* xml: [http://www.w3.org/XML/1998/namespace](http://www.w3.org/XML/1998/namespace)
+* xsd: [http://www.w3.org/2001/XMLSchema#](http://www.w3.org/2001/XMLSchema#)
 
-The property `linked` was created for this purpose.
+### Lier les ressources LODEX et les documents ISTEX
+
+Dans la configuration de l'_exporter_ (nommée `istexQuery`), il faut ajouter la propriété sémantique liant la ressource LODEX contenant la requête aux documents ISTEX correspondants.
+
+Pour ce faire, on utilise la propriété `linked`, qui pointe le champ (du `context`) contenant la propriété à utiliser.
 
 ```json
 "istexQuery" : {
@@ -117,66 +119,18 @@ The property `linked` was created for this purpose.
 }
 ```
 
-`linked` add in property `LINK` the lodex URI of your document with the rdf predicate `dc:example` .
+Dans cet exemple, la propriété `LINK` a été déclarée comme étant celle à utiliser pour lier les ressources aux documents.
 
-## Exporter script
+## Script d'export
 
-An export can take a long time to execute and it's more comfortable to export with a script/commands in bash or powershell.
+L'export peut prendre très longtemps, et il est plus aisé d'utiliser un script bash ou powershell plutôt qu'un navigateur web.
 
-So, you can use the command `wget` in bash and powershell 3.0 :
+Une bonne solution, sous bash ou powershell 3.0, est d'utiliser la commande `wget`:
 
 ```bash
-$ wget -O file -c lodex.url/api/export/nquads
+wget -O file -c lodex.url/api/export/nquads
 ```
 
-> ‘-c’ ‘--continue’ : wget option to restart the download from scratch and overwrite the existing file entirely if lodex export get an error.
+> ‘-c’ ‘--continue’ : option wget pour redémarrer le téléchargement et écraser le fichier existant quand l'export LODEX retourne une erreur.
 
-You have the list of all exporter available in `/api/export`:
-
-```json
-[
-    {
-        "name": "nquads",
-        "type": "file"
-    },
-    {
-        "name": "extendednquads",
-        "type": "file"
-    },
-    {
-        "name": "extendednquadscompressed",
-        "type": "file"
-    },
-    {
-        "name": "csv",
-        "type": "file"
-    },
-    {
-        "name": "tsv",
-        "type": "file"
-    },
-    {
-        "name": "raw",
-        "type": "file"
-    },
-    {
-        "name": "turtle",
-        "type": "file"
-    },
-    {
-        "name": "jsonld",
-        "type": "file"
-    },
-    {
-        "name": "jsonldcompacted",
-        "type": "file"
-    },
-    {
-        "name": "widget",
-        "type": "widget"
-    }
-]
-```
-
-
-
+La liste des _exporters_ est disponible [au début de cette section](#exporters).
