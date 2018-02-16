@@ -19,11 +19,8 @@
   * [Création de l'URI](/Processus publication/Création URI/README.md)
   * [Paramétrage-stylage des colonnes](/Processus publication/Paramétrage - Stylage des colonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
-
 * [Édition après publication](/Edition après publication/README.md)
-
 * [Administration](/Administration/README.md)
-
   * [login](/Administration/Login/README.md)
   * [modèle](/Administration/Modèle/README.md)
     * [export](/Administration/Modèle/Export/README.md)
@@ -79,8 +76,4 @@
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
   * [modération](/Administration/Modération/README.md)
   * [importer des données supplémentaires](/Administration/Importer plus/README.md)
-
 * [Contribution](/contribution.md)
-
-
-
