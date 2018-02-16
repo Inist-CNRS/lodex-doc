@@ -14,5 +14,4 @@ npm start
 
 Par défaut, l'application est accessible à l'URL: [http://localhost:3000/](http://localhost:3000/).
 
-Si ce serveur est accessible sur le web, vous pouvez renseigner la variable d'environnement `EZMASTER-PUBLIC-URL` \(en remplaçant le tiret `-` par un souligné: `_`\) avec l'URL de base du serveur \(par exemple `https://data.istex.fr`\).
-
+Si ce serveur est accessible sur le web, vous pouvez renseigner la variable d'environnement `EZMASTER_PUBLIC_URL` avec l'URL de base du serveur \(par exemple `https://data.istex.fr`\).

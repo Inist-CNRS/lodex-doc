@@ -11,9 +11,6 @@ make run-dev
 
 Si vous n'avez pas encore de MongoDB écoutant sur le port 27017, vous pouvez utiliser:
 
-```
+```bash
 make mongo
 ```
-
-
-

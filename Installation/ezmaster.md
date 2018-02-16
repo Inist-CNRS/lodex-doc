@@ -11,6 +11,3 @@ _Pré-requis_: ezmaster 4+
 Rien que de très classique dans ezmaster.
 
 > **Note**: dans ezmaster 5+, il faut aussi installer l'application [inistcnrs/ezmaster-mongo](https://hub.docker.com/r/inistcnrs/ezmaster-mongo/), car ezmaster ne fournit plus de serveur mongo.
-
-
-
