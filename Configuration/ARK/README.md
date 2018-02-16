@@ -1,8 +1,5 @@
 # ARK
 
-Si votre organisation a adopté le système identification ARK pour identifier des objets de manière pérenne, l'outil LODEX vous permet de le gérer lors de la publication du jeu de données produit par votre organisation.
+Si votre organisation a adopté le système d'identifiants [ARK](https://fr.wikipedia.org/wiki/Archival_Resource_Key) pour identifier des objets de manière pérenne, LODEX vous permet d'en générer lors de la publication d'un jeu de données.
 
-Un identifiant ARK comprends au moins un NAAN \(Name Mapping Authority Host\) et  un subpublisher. Dans les deux champs dédiés, vous saisisez  les informations correspondantes. Après saisi de ces deux éléments, l''identifiant ARK constituera votre URI \(voir processus de publication du jeu de donnée\).
-
-Vous pouvez consulter le document suivant pour de plus amples informations : [https://docs.google.com/document/d/1619Xr5TTz1RJ6FnafgHT\_bHKf7GZoWQ\_aPOI62d729s/edit](https://docs.google.com/document/d/1619Xr5TTz1RJ6FnafgHT_bHKf7GZoWQ_aPOI62d729s/edit)
-
+Un identifiant ARK comprend au moins un NAAN \(Name Assigning Authority Number\) et  un subpublisher (3 caractères qui identifient le jeu de données). Saisissez  les informations correspondantes dans les deux champs dédiés pour que LODEX génère un identifiant ARK pour chaque ressource de votre jeu de données.
