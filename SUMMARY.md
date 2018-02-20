@@ -7,12 +7,12 @@
   * [ezmaster](Installation/ezmaster.md)
 * [Configuration](/Configuration/README.md)
   * [authentification](/Configuration/Authentification/README.md)
-  * [restriction d'accès](/Configuration/Restriction d'accès/README.md)
+  * \[restriction d'accès\]\(/Configuration/Restriction d'accès/README.md\)
   * [ARK](Configuration/ARK/README.md)
   * [loaders](/Configuration/loaders/README.md)
   * [routines](/Configuration/routines/README.md)
   * [exporters](/Configuration/exporters/README.md)
-* [Affichages Front office](/Affichages front office/README.md)
+* [Affichages Front office](/AffichagesFrontOffice/README.md)
   * [Accès restreint](/Affichages front office/Accès restreint/README.md)
 * [Processus de publication](/Processus publication/README.md)
   * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
@@ -77,3 +77,6 @@
   * [modération](/Administration/Modération/README.md)
   * [importer des données supplémentaires](/Administration/Importer plus/README.md)
 * [Contribution](/contribution.md)
+
+
+
