@@ -12,9 +12,19 @@ C'est de la responsabilité du concepteur du thème d'ajouter les différents li
 * connexion: `/login`
 * liste des ressources: `/graph`
 
+Pour faire prendre un thème en compte par LODEX, il faut mettre les fichiers correspondant dans le répertoire `src/app/custom` du programme, puis le relancer.
+
+Cette opération est plus ou moins simple suivant le contexte.
+
+## Avec ezMaster : WebDav
+
 Si vous avez adopté ezmaster pour installer l'outil, vous devrez utiliser le protocole Webdav pour téléverser les différents fichiers de paramétrage. Sous Linux Sous Windows
 
+## Avec docker
+
 Si vous avez adopté docker pour installer l'outil, vous devrez utiliser ........
+
+## Avec node
 
 Si vous avez adopté node  pour installer l'outil, vous devrez utiliser ....
 
