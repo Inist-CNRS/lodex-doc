@@ -19,7 +19,7 @@
   * [Création de l'URI](/ProcessusPublication/CreationURI/README.md)
   * [Paramétrage-stylage des colonnes](/ProcessusPublication/ParametageStylageDesColonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
-* [Édition après publication](/Edition après publication/README.md)
+* [Édition après publication](/EditionAprèsPublication/README.md)
 * [Administration](/Administration/README.md)
   * [login](/Administration/Login/README.md)
   * [modèle](/Administration/Modèle/README.md)
