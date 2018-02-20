@@ -15,7 +15,7 @@
 * [Affichages Front office](/AffichagesFrontOffice/README.md)
   * [Accès restreint](/AffichagesFrontOffice/Accès restreint/README.md)
 * [Processus de publication](/ProcessusPublication/README.md)
-  * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
+  * [Chargement du jeu de données](/ProcessusPublication/ChargementJeu/README.md)
   * [Création de l'URI](/Processus publication/CreationURI/README.md)
   * [Paramétrage-stylage des colonnes](/Processus publication/ParametageStylageDesColonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
