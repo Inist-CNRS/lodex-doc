@@ -13,7 +13,7 @@
   * [routines](/Configuration/routines/README.md)
   * [exporters](/Configuration/exporters/README.md)
 * [Affichages Front office](/AffichagesFrontOffice/README.md)
-  * [Accès restreint](/Affichages front office/Accès restreint/README.md)
+  * [Accès restreint](/AffichagesFrontOffice/Accès restreint/README.md)
 * [Processus de publication](/Processus publication/README.md)
   * [Chargement du jeu de données](/Processus publication/Chargement du jeu de données/README.md)
   * [Création de l'URI](/Processus publication/Création URI/README.md)
@@ -77,6 +77,4 @@
   * [modération](/Administration/Modération/README.md)
   * [importer des données supplémentaires](/Administration/Importer plus/README.md)
 * [Contribution](/contribution.md)
-
-
 
