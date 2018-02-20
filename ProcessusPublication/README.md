@@ -2,7 +2,7 @@
 
 ## Vous souhaitez créer un modèle
 
-Avant de débuter le processus de publication, il est impératif d'avoir pris connaissance des différents [affichages du front office](//Affichages front office/README.md). En effet, le résultat des différentes opérations de ce processus conduit aux différents affichages.
+Avant de débuter le processus de publication, il est impératif d'avoir pris connaissance des différents [affichages du front office](/AffichagesFrontOffice/README.md). En effet, le résultat des différentes opérations de ce processus conduit aux différents affichages.
 
 Les trois étapes nécessaires à la publication d'un jeu de données sont consignées dans ce chapitre :
 
