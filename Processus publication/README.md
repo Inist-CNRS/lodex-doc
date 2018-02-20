@@ -2,7 +2,7 @@
 
 ## Vous souhaitez créer un modèle
 
-Avant de débuter le processus de publication, il est impératif d'avoir pris connaissance des différents [affichages du front office](/Affichages front office/README.md). En effet, le résultat des différentes opérations de ce processus conduit aux différents affichages.
+Avant de débuter le processus de publication, il est impératif d'avoir pris connaissance des différents [affichages du front office](/AffichagesFrontOffice/README.md). En effet, le résultat des différentes opérations de ce processus conduit aux différents affichages.
 
 Les trois étapes nécessaires à la publication d'un jeu de données sont consignées dans ce chapitre :
 
@@ -18,5 +18,6 @@ Si au préalable vous avez déjà créé un modèle et exporté ce dernier, il v
 
 Pour cela, il vous suffit de cliquer sur le bouton `IMPORT MODEL` pour aller récupérer le modèle stocké sur votre disque dur.
 
-![Écran d'administration avant chargement des données](/assets/parametre7.png)
+![Écran d&apos;administration avant chargement des données](/assets/parametre7.png)  
 Il vous reste, si vous le jugez nécessaire, à modifier le paramétrage des colonnes, à enlever et à ajouter une ou plusieurs colonnes.
+
