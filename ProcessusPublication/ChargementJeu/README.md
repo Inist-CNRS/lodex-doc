@@ -16,5 +16,5 @@ Que lire sur cet écran  ?
 
 ![](/assets/écranchargementdonnées5.png)
 
-Les trois actions permises à l'aide du **bouton + : **![](/assets/écranchargementdonnées6.png)Après cette lecture, l'étape suivante est la [création de l'URI](/Processus publication/CreationURI/README.md).
+Les trois actions permises à l'aide du **bouton + : **![](/assets/écranchargementdonnées6.png)Après cette lecture, l'étape suivante est la [création de l'URI](/ProcessusPublication/CreationURI/README.md).
 
