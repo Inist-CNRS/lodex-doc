@@ -1,6 +1,6 @@
 # Le paramétrage/stylage des colonnes
 
-Pour ce faire, vous devez activez le bouton "**+**" [précédemment décrit](https://www.gitbook.com/book/lodex/lodex-user-documentation/edit#/edit/master/assets/écranchargementdonnées6.png?_k=5jwyv7). Le système se met en mode paramétrage/stylage.
+Pour ce faire, vous devez activez le bouton "**+**" [précédemment décrit](/ProcessusPublication/CreationURI/README.md). Le système se met en mode paramétrage/stylage.
 
 Pour paramétrer/styler les colonnes appartenant initialement à votre jeu de données, cliquez sur bouton "ADD A COLUMN FROM ORIGINAL DATASET",  le bouton "**ADD TO PUBLICATION**" apparaît pour chacune des colonnes à traiter. Il est à noter, qu’il faudra recommencer cette action autant de fois que vous avez de colonnes.
 
