@@ -7,7 +7,7 @@ Avant de débuter le processus de publication, il est impératif d'avoir pris co
 Les trois étapes nécessaires à la publication d'un jeu de données sont consignées dans ce chapitre :
 
 * [Chargement du jeu données](/Processus publication/Chargement du jeu de données/README.md),
-* [Création de l'URI](/Processus publication/Création URI/README.md),
+* [Création de l'UR](/Processus publication/CreationURI/README.md)I,
 * [Paramétrage - Stylage des colonnes](/Processus publication/Paramétrage - Stylage des colonnes/README.md).
 
 Après avoir réalisé les différentes opérations liées à ces trois étapes, votre jeu de données pourra être publié et vous aurez constitué un [modèle](/Administration/Modèle/README.md).
@@ -18,5 +18,6 @@ Si au préalable vous avez déjà créé un modèle et exporté ce dernier, il v
 
 Pour cela, il vous suffit de cliquer sur le bouton `IMPORT MODEL` pour aller récupérer le modèle stocké sur votre disque dur.
 
-![Écran d'administration avant chargement des données](/assets/parametre7.png)
+![Écran d&apos;administration avant chargement des données](/assets/parametre7.png)  
 Il vous reste, si vous le jugez nécessaire, à modifier le paramétrage des colonnes, à enlever et à ajouter une ou plusieurs colonnes.
+
