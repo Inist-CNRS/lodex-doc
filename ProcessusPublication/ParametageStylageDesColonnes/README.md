@@ -38,7 +38,7 @@ Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme
 
 ### 5 – How and where it is display
 
-Cette opération vous permet de paramétrer l'affichage de la home page, l'affichage complet d'une  ressource et l'aafichage GraphLIST. Pour rappel relire le descriptif de l'[affichages Front office](/Affichages front office/README.md).
+Cette opération vous permet de paramétrer l'affichage de la home page, l'affichage complet d'une  ressource et l'aafichage GraphLIST. Pour rappel relire le descriptif de l'[affichages Front office](/AffichagesFrontOffice/README.md).
 
 Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(en tête et contenu\) avait comme coverage "Different for each resource" alors, vous avez cette fenêtre à remplir :
 
