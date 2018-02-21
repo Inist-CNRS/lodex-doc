@@ -10,5 +10,7 @@ Après vous être connecté comme administrateur, puis après avoir cliqué sur 
 
 Après avoir cliqué sur le bouton "REVIEW" :![](/assets/moderation2.png)Après validation de la contribution
 
-![](/assets/moderation3.png)
+![](/assets/moderation3.png)Au niveau  du menu "contributed  ressources", la ressources modifiée et validée se retrouve dans la liste " list ressources with validated contribution" se qui vous permet de disposer d'un suivi des contributions par statut : 
+
+![](/assets/moderation4.png)
 
