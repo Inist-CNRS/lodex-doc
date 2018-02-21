@@ -8,5 +8,7 @@ Après vous être connecté comme administrateur, puis après avoir cliqué sur 
 
 ![](/assets/moderation1.png)
 
-Après avoir cliqué sur le bouton "REVIEW" :![](/assets/moderation2.png)
+Après avoir cliqué sur le bouton "REVIEW" :![](/assets/moderation2.png)Après validation de la contribution
+
+![](/assets/moderation3.png)
 
