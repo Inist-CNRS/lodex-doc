@@ -20,6 +20,7 @@
   * [Paramétrage-stylage des colonnes](/ProcessusPublication/ParametageStylageDesColonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
 * [Édition après publication](/EditionAprèsPublication/README.md)
+* [Modération](/Modération/README.md)
 * [Administration](/Administration/README.md)
   * [login](/Administration/Login/README.md)
   * [modèle](/Administration/Modèle/README.md)
