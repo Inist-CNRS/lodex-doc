@@ -20,6 +20,8 @@
   * [Paramétrage-stylage des colonnes](/ProcessusPublication/ParametageStylageDesColonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
 * [Édition après publication](/EditionAprèsPublication/README.md)
+  * [Vous êtes administrateur](/EditionAprèsPublication/VousEtesAdministrateur/README.md)
+  * [Vous êtes internaute](/EditionAprèsPublication/VousEtesInternaute/README.md)
 * [Fonctions avancées](fonctions-avancees.md)
   * [Modération](/FonctionsAvancees/Moderation/README.md)
   * [Restauration](/FonctionsAvancees/Restauration/README.md)
@@ -80,4 +82,6 @@
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
   * [importer des données supplémentaires](/Administration/Importer plus/README.md)
 * [Contribution](/contribution.md)
+
+
 
