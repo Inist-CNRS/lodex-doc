@@ -1,10 +1,10 @@
 # Les informations présentes lors de l'affichage du front office
 
-Ces informations sont à lire avant de passer au processus de publication et plus particulièrement au [paramétrage/stylage des colonnes.](/ProcessusPublication/ParametageStylageDesColonnes/README.md)
+Ces informations sont à lire avant de passer au processus de publication et plus particulièrement au [paramétrage/stylage des colonnes](/ProcessusPublication/ParametageStylageDesColonnes/README.md).
 
 Après publication, lorsque que vous ouvrez un jeu de données, vous accédez à la **home page** :
 
-## Affichage home Page
+## Affichage Home Page
 
 ![Explication de la page d&apos;accueil](/assets/frontofficeaffichagehomepage.png)  
 Se référer à l'étape "1-General Information"  du processus de publication pour la déclaration de la répartition des informations entre le jeu de données proprement dit et les ressources. \(TODO: Vérifier le lien\)
