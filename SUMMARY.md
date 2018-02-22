@@ -7,7 +7,7 @@
   * [ezmaster](Installation/ezmaster.md)
 * [Configuration](/Configuration/README.md)
   * [authentification](/Configuration/Authentification/README.md)
-  * \[restriction d'accès\]\(/Configuration/Restriction d'accès/README.md\)
+  * [restriction d'accès](Configuration/RestrictionAccès/README.md)
   * [ARK](Configuration/ARK/README.md)
   * [loaders](/Configuration/loaders/README.md)
   * [routines](/Configuration/routines/README.md)
@@ -82,6 +82,4 @@
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
   * [importer des données supplémentaires](/Administration/Importer plus/README.md)
 * [Contribution](/contribution.md)
-
-
 
