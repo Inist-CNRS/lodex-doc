@@ -5,6 +5,3 @@ Dans ce chapitre, nous aborderons trois fonctionnalités accessibles exclusiveme
 1. [Modération](/FonctionsAvancees/Moderation/README.md)
 2. [Restauration](/FonctionsAvancees/Restauration/README.md)
 3. [Importer des données supplémentaires](/FonctionsAvancees/ImporterDonneesSupplementaires/README.md)
-
-
-

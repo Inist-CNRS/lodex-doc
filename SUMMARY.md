@@ -22,7 +22,7 @@
 * [Édition après publication](/EditionAprèsPublication/README.md)
   * [Vous êtes administrateur](/EditionAprèsPublication/VousEtesAdministrateur/README.md)
   * [Vous êtes internaute](/EditionAprèsPublication/VousEtesInternaute/README.md)
-* [Fonctions avancées](fonctions-avancees.md)
+* [Fonctions avancées](/FonctionsAvancees/README.md)
   * [Modération](/FonctionsAvancees/Moderation/README.md)
   * [Restauration](/FonctionsAvancees/Restauration/README.md)
   * [Importer des données supplémentaires](/FonctionsAvancees/ImporterDonneesSupplementaires/README.md)
