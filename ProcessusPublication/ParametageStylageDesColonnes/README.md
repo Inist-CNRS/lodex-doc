@@ -44,9 +44,14 @@ La description ainsi que le fonctionnement de chacun des _transformers_ sont dé
 
 ### **4 - Semantics**
 
-Cette opération vous permet de déclarer en  langage RDF, une ressource anonyme ou nœud anonyme \(en anglais blank node ou bnode\). C’est une ressource, ou nœud d'un graphe RDF, qui n'est pas identifiée par une URI. Une ressource anonyme peut être sujet ou objet d'un triplet RDF. \(Voir Wikipédia : [https://fr.wikipedia.org/wiki/Ressource\_anonyme](https://fr.wikipedia.org/wiki/Ressource_anonyme)\).
+Cette opération vous permet de déclarer en  langage RDF une ressource anonyme ou nœud anonyme \(en anglais _blank node_ ou _bnode_\). C’est une ressource, ou nœud d'un graphe RDF, qui n'est pas identifiée par une URI. Une ressource anonyme peut être sujet ou objet d'un triplet RDF. \(Voir Wikipédia : [https://fr.wikipedia.org/wiki/Ressource\_anonyme](https://fr.wikipedia.org/wiki/Ressource_anonyme)\).
 
-**Deux** possibilités vous sont offertes : ![](/assets/parametre6.png)Selon la nature de vos données, à vous retenir l'option qui convient.
+**Deux** possibilités vous sont offertes :
+![](/assets/parametre6.png)
+1. _Annotate another field_ : à utiliser lorsque vous voulez préciser la valeur d'une colonne par rapport à une autre. Par exemple pour préciser la source d'une définition; pour cela, on sélectionnera la colonne de définition dans le menu déroulant lors du paramétrage de la colonne source ;
+2. _Compose this field_ : à utiliser lorsque vous voulez, au sens du web sémantique, composer un champ à partir d'un ou plusieurs champs. Par exemple, une adresse est composée d'un nom de rue, d'une ville, d'un pays ; pour cela, on sélectionnera les colonnes nom de rue, ville et pays lors du paramétrage de la colonne adresse.
+
+Selon la nature de vos données, à vous de retenir l'option qui convient.
 
 ### 5 – How and where it is display
 
