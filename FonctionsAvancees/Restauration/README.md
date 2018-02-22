@@ -4,3 +4,7 @@ Comme présenté dans le chapitre [édition après publication](/EditionAprèsPu
 
 L'outil LODEX, propose une fonctionnalité permettant la restauration ou la récupération de cette ressource.
 
+Après vous être connecté comme administrateur, puis après avoir cliqué sur "MODERATION", le système vous propose l'enchaînement des écrans suivants :
+
+![](/assets/restauration.png)
+
