@@ -57,11 +57,11 @@ Selon la nature de vos données, à vous de retenir l'option qui convient.
 
 Cette opération vous permet de paramétrer l'affichage de la _home page_, l'affichage complet d'une ressource et l'affichage liste des ressources. Pour rappel relire le descriptif de l'[affichage Front office](/AffichagesFrontOffice/README.md).
 
-Lors de l'étape [1-General Informations](#1--general-informations), si vous avez indiqué que votre colonne \(entête et contenu\) avait comme _coverage_ `Different for each resource` alors, vous avez cette fenêtre à remplir :
+Lors de l'étape [1-General Informations](#1---general-informations), si vous avez indiqué que votre colonne \(entête et contenu\) avait comme _coverage_ `Different for each resource` alors, vous avez cette fenêtre à remplir :
 
 ![Où afficher la colonne, 2 possibilités](/assets/affichageressource.png)
 
-Lors de l'étape [1-General Informations](#1--general-informations), si vous avez indiqué que votre colonne \(entête et contenu\) avait comme _coverage_ `Apply to whole dataset` alors, vous avez cette fenêtre à remplir :
+Lors de l'étape [1-General Informations](#1---general-informations), si vous avez indiqué que votre colonne \(entête et contenu\) avait comme _coverage_ `Apply to whole dataset` alors, vous avez cette fenêtre à remplir :
 ![Où afficher la colonne, 4 possibilités](/assets/affichagehomepage.png)
 
 ### **6 –Search related**
