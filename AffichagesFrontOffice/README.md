@@ -1,6 +1,6 @@
 # Les informations présentes lors de l'affichage du front office
 
-Ces informations sont à lire avant de passer au processus de publication et plus particulièrement au[ paramétrage/stylage des colonnes.](/Processus publication/ParametageStylageDesColonnes/README.md)
+Ces informations sont à lire avant de passer au processus de publication et plus particulièrement au [paramétrage/stylage des colonnes.](/ProcessusPublication/ParametageStylageDesColonnes/README.md)
 
 Après publication, lorsque que vous ouvrez un jeu de données, vous accédez à la **home page** :
 
