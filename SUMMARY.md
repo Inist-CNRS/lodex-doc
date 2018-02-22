@@ -9,7 +9,6 @@
   * [authentification](/Configuration/Authentification/README.md)
   * [restriction d'accès](Configuration/RestrictionAccès/README.md)
   * [ARK](Configuration/ARK/README.md)
-  * [loaders](/Configuration/loaders/README.md)
   * [routines](/Configuration/routines/README.md)
   * [exporters](/Configuration/exporters/README.md)
   * [sémantique](/Configuration/LinkedOpenData/README.md)
