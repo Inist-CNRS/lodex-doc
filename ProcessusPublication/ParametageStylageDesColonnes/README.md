@@ -10,7 +10,7 @@ Pour ajouter une nouvelle colonne à votre jeu de données cliquez sur `ADD A NE
 
 Pour chaque intitulé de colonne, le système vous propose cette fenêtre, correspondant aux **six étapes** possibles et à la prévisualisation du résultat du traitement effectué sur cette colonne :
 ![Les 6 étapes du paramétrage](/assets/parametrage2.png)
-> **Note** : dans l'exemple présenté, nous avons sélectionné la colonne `Nom de l'établissement` et "Concept fr". (TODO: expliciter "Concept fr" ou supprimer)
+> **Note** : dans les exemples présentés, nous avons sélectionné les colonnes nommées `Nom de l'établissement` et `Concept fr`.
 
 ## Descriptif des 6 étapes
 
@@ -57,11 +57,12 @@ Selon la nature de vos données, à vous de retenir l'option qui convient.
 
 Cette opération vous permet de paramétrer l'affichage de la _home page_, l'affichage complet d'une ressource et l'affichage liste des ressources. Pour rappel relire le descriptif de l'[affichage Front office](/AffichagesFrontOffice/README.md).
 
-Lors de l'étape [1-General Informations](#generalinformations), si vous avez indiqué que votre colonne \(en tête et contenu\) avait comme coverage "Different for each resource" alors, vous avez cette fenêtre à remplir :
+Lors de l'étape [1-General Informations](#1--general-informations), si vous avez indiqué que votre colonne \(entête et contenu\) avait comme _coverage_ `Different for each resource` alors, vous avez cette fenêtre à remplir :
 
-![](/assets/affichageressource.png)
+![Où afficher la colonne, 2 possibilités](/assets/affichageressource.png)
 
-Lors de l'étape "1-General Informations", si vous avez indiqué que votre colonne \(entête et contenu\) avait comme coverage "Apply to whole dataset" alors, vous avez cette fenêtre à remplir :![](/assets/affichagehomepage.png)
+Lors de l'étape [1-General Informations](#1--general-informations), si vous avez indiqué que votre colonne \(entête et contenu\) avait comme _coverage_ `Apply to whole dataset` alors, vous avez cette fenêtre à remplir :
+![Où afficher la colonne, 4 possibilités](/assets/affichagehomepage.png)
 
 ### **6 –Search related**
 
