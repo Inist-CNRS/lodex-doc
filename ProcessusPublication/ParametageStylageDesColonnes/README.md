@@ -66,11 +66,11 @@ Lors de l'étape [1-General Informations](#1--general-informations), si vous ave
 
 ### **6 –Search related**
 
-Lors de cette dernière opération, vous décidez si vos données vont être interrogeable ou non et ou constituer une facette sur sera accessible au niveau de l'affichage "GRAPHLIST".
+Lors de cette dernière opération, vous décidez si vos données vont être interrogeables ou non et si elles constitueront une facette qui sera accessible au niveau de l'affichage "GRAPHLIST" (liste de ressources), et dans les formats graphiques.
 
-![](/assets/searchrelated.png)
+![Étape relative à la recherche](/assets/searchrelated.png)
 
-Les étapes décrites précédemment, ont permis de paramétrer/styler votre jeu de données. Il vous reste, maintenant une étape à réaliser afin de pouvoir afficher les informations qualifiants vos ressources sur la home page.
+Les étapes décrites précédemment, ont permis de paramétrer/styler votre jeu de données. Il vous reste maintenant une étape à réaliser afin de pouvoir afficher les informations qualifiant vos ressources sur la _home page_.
 
 Pour ce faire, ajouter une nouvelle colonne à votre jeu de données cliquez sur "ADD A NEW COLUMN", puis renseigner le formulaire de paramétrage comme suit :
 
