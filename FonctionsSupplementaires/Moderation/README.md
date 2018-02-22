@@ -18,9 +18,7 @@ Après validation de la contribution
 
 ![](/assets/moderation3.png)Au niveau  du menu "contributed  ressources", la ressources modifiée et validée se retrouve dans la liste " list ressources with validated contribution" se qui vous permet de disposer d'un suivi des contributions par statut :
 
-## ![](/assets/moderation4.png)Cas d'une demande de suppression
-
-Comme présenté dans le chapitre [édition après publication](/EditionAprèsPublication/README.md), l'administrateur du jeu de données peux supprimer logiquement une ressource \(données de cette dernière sont toujours présentes dans la base de données mais absentes à l'affichage\) en activant la bouton "HIDE".
+## ![](/assets/moderation4.png)
 
 
 
