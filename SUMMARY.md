@@ -80,6 +80,5 @@
       * [TRUNCATE](/Administration/Modèle/Transformers/TRUNCATE.md)
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
-  * [importer des données supplémentaires](/Administration/Importer plus/README.md)
 * [Contribution](/contribution.md)
 
