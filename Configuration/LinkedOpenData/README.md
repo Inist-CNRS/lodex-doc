@@ -1,7 +1,6 @@
 # Réglages sémantiques
 
 
-
 * schemeForDatasetLink
 * datasetClass
 * collectionClass
