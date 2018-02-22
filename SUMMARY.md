@@ -12,6 +12,7 @@
   * [loaders](/Configuration/loaders/README.md)
   * [routines](/Configuration/routines/README.md)
   * [exporters](/Configuration/exporters/README.md)
+  * [sémantique](/Configuration/LinkedOpenData/README.md)
 * [Affichages Front office](/AffichagesFrontOffice/README.md)
   * [Accès restreint](/AffichagesFrontOffice/Accès restreint/README.md)
 * [Processus de publication](/ProcessusPublication/README.md)

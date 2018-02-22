@@ -16,7 +16,7 @@ Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant
 * [loader](/Configuration/loaders/README.md) \(liste et configuration des loaders utilisables\)
 * [routines](/Configuration/routines/README.md) / routinesRepository \(_optionnel:_ utilisé avec les formats graphiques\)
 * [exporters](/Configuration/exporters/README.md) \(liste des formats d'export à afficher\)
-* [réglages sémantiques](/Configuration/Linked Open Data/README.md) \(_optionnel:_ exposer ses données suivant les formats du web sémantique\)
+* [réglages sémantiques](/Configuration/LinkedOpenData/README.md) \(_optionnel:_ exposer ses données suivant les formats du web sémantique\)
 
 ![Fichier de configuration](/assets/panneaudedonfiguration.png)
 
