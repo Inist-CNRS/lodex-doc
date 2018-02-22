@@ -2,7 +2,7 @@
 
 Les routines de LODEX sont des scripts, fournis par LODEX, ou stockables n'importe où sur le web, qui peuvent effectuer des agrégations, des calculs, des reformatages et renvoyer des données sous une forme utilisable \(souvent par un [format](/Administration/Modèle/Format/README.md) de type graphique\).
 
-Les routines sont appelées via l'API web de LODEX, et s'appliquent à un champ. Quand on connaît le nom de la routine à utiliser \(disons `routine-exemple`\), il suffit de l'ajouter derrière `/api/run/` pour obtenir la _route_ à utiliser \(comme valeur de champ pour un format graphique\): `/api/run/routine-exemple`.
+Les routines sont appelées via l'API web de LODEX, et s'appliquent à un champ (ou plus). Quand on connaît le nom de la routine à utiliser \(disons `routine-exemple`\), il suffit de l'ajouter derrière `/api/run/` pour obtenir la _route_ à utiliser \(comme valeur de champ pour un format graphique\): `/api/run/routine-exemple`.
 
 ## Déclaration dans la configuration
 
