@@ -21,8 +21,8 @@
 * [Personnalisation du thème](/Thème/README.md)
 * [Édition après publication](/EditionAprèsPublication/README.md)
 * Fonctions avancées
-  * Modération
-  * Restauration
+  * [Modération](/FonctionsAvancees/Moderation/README.md)
+  * [Restauration](/FonctionsAvancees/Restauration/README.md)
   * Importer des données supplémentaires
 * [Administration](/Administration/README.md)
 
