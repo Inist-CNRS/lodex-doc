@@ -11,7 +11,7 @@ Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant
 ## Réglages possibles
 
 * [username / password](/Configuration/Authentification/README.md)
-* [userAuth](/Configuration/Restriction d'accès/README.md) \(_optionnel_: restriction d'accès à l'application\)
+* \[userAuth\]\(/Configuration/RestrictionAccès/README.md\) \(_optionnel_: restriction d'accès à l'application\)
 * [naan / subpublisher](/Configuration/ARK/README.md) \(_optionnel:_ usage d'ARK pour les identifiants\)
 * [loader](/Configuration/loaders/README.md) \(liste et configuration des loaders utilisables\)
 * [routines](/Configuration/routines/README.md) / routinesRepository \(_optionnel:_ utilisé avec les formats graphiques\)
@@ -19,3 +19,4 @@ Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant
 * [réglages sémantiques](/Configuration/Linked Open Data/README.md) \(_optionnel:_ exposer ses données suivant les formats du web sémantique\)
 
 ![Fichier de configuration](/assets/panneaudedonfiguration.png)
+
