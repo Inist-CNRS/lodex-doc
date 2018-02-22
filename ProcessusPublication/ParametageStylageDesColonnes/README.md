@@ -70,11 +70,9 @@ Lors de cette dernière opération, vous décidez si vos données vont être int
 
 ![Étape relative à la recherche](/assets/searchrelated.png)
 
-Les étapes décrites précédemment, ont permis de paramétrer/styler votre jeu de données. Il vous reste maintenant une étape à réaliser afin de pouvoir afficher les informations qualifiant vos ressources sur la _home page_.
+Les étapes décrites précédemment ont permis de paramétrer/styler votre jeu de données. Il vous reste maintenant une étape à réaliser afin de pouvoir afficher les informations qualifiant vos ressources sur la _home page_.
 
 Pour ce faire, ajoutez une nouvelle colonne au niveau du jeu de données, en cliquant sur `ADD A NEW COLUMN`, puis en renseignant le formulaire de paramétrage comme suit :
-
-remplir les champs : 
 
 **1 "General informations":**
 
