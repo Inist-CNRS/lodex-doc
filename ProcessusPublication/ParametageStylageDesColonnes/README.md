@@ -72,31 +72,26 @@ Lors de cette dernière opération, vous décidez si vos données vont être int
 
 Les étapes décrites précédemment, ont permis de paramétrer/styler votre jeu de données. Il vous reste maintenant une étape à réaliser afin de pouvoir afficher les informations qualifiant vos ressources sur la _home page_.
 
-Pour ce faire, ajouter une nouvelle colonne à votre jeu de données cliquez sur "ADD A NEW COLUMN", puis renseigner le formulaire de paramétrage comme suit :
+Pour ce faire, ajoutez une nouvelle colonne au niveau du jeu de données, en cliquant sur `ADD A NEW COLUMN`, puis en renseignant le formulaire de paramétrage comme suit :
 
-remplir les champs : 1 "**General informations**" :
+remplir les champs : 
 
-```
-                                               label : Liste des ressources \(par exemple\)
+**1 "General informations":**
 
-                                               select a coverage : Apply to whole dataset
-```
+- label : Liste des ressources \(par exemple\)
+- select a coverage : Apply to whole dataset
 
-**                                     2  "How the is generated" :**
 
-```
-                                                An arbitary value :  /api/run/syndication 
+**2  "How the value is generated":**
 
-                                **  5 "How and where it is displayed" :**
+- An arbitary value :  /api/run/syndication 
 
-                                               Cochez uniquement la case "Display in home page"
+**  5 "How and where it is displayed":**
 
-                                                Apply a format : Sélectionner : Other - Resources Grid**
-```
+- Cochez uniquement la case `Display in home page`
+- Apply a format : Sélectionnez : `Other - Resources Grid`
 
-\*\*
+L'ultime étape correspond à la publication de votre jeu de données, en cliquant sur le bouton `PUBLISH` en haut à droite :
 
-Maintenant, l'ultime étape correspond à la publication de votre jeu de données, en cliquant sur le bouton "PUBLISH" en haut à droite :
-
-![](/assets/publicationjeudedonnées.png)
+![Écran d'administration d'un jeu prêt à être publié](/assets/publicationjeudedonnées.png)
 
