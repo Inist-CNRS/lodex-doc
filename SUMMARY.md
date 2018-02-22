@@ -23,7 +23,7 @@
 * Fonctions avancées
   * [Modération](/FonctionsAvancees/Moderation/README.md)
   * [Restauration](/FonctionsAvancees/Restauration/README.md)
-  * Importer des données supplémentaires
+  * [Importer des données supplémentaires](/FonctionsAvancees/ImporterDonneesSupplementaires/README.md)
 * [Administration](/Administration/README.md)
 
   * [login](/Administration/Login/README.md)
