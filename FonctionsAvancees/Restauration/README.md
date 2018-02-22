@@ -8,3 +8,7 @@ Après vous être connecté comme administrateur, puis après avoir cliqué sur 
 
 ![](/assets/restauration.png)
 
+Après avoir cliqué sur le bouton "REMOVED RESSOURCES", le système propose la liste des ressources qui ont été supprimé à l'affichage.
+
+Si vous cliquez sur le bouton "RESTORE", vous activez la restauration de l'affichage de la ressource.
+
