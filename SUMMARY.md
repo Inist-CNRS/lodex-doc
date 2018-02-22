@@ -20,15 +20,13 @@
   * [Paramétrage-stylage des colonnes](/ProcessusPublication/ParametageStylageDesColonnes/README.md)
 * [Personnalisation du thème](/Thème/README.md)
 * [Édition après publication](/EditionAprèsPublication/README.md)
-* Fonctions avancées
+* [Fonctions avancées](fonctions-avancees.md)
   * [Modération](/FonctionsAvancees/Moderation/README.md)
   * [Restauration](/FonctionsAvancees/Restauration/README.md)
   * [Importer des données supplémentaires](/FonctionsAvancees/ImporterDonneesSupplementaires/README.md)
 * [Administration](/Administration/README.md)
-
   * [login](/Administration/Login/README.md)
   * [modèle](/Administration/Modèle/README.md)
-
     * [export](/Administration/Modèle/Export/README.md)
     * [format](/Administration/Modèle/Format/README.md)
       * [Bubble Chart](/Administration/Modèle/Format/BubbleChart.md)
@@ -80,10 +78,6 @@
       * [TRUNCATE](/Administration/Modèle/Transformers/TRUNCATE.md)
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
-
   * [importer des données supplémentaires](/Administration/Importer plus/README.md)
-
 * [Contribution](/contribution.md)
-
-
 
