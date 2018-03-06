@@ -16,6 +16,12 @@ Pour faire prendre un thème en compte par LODEX, il faut mettre les fichiers co
 
 Cette opération est plus ou moins simple suivant le contexte.
 
+
+
+Si vous avez adopté ezmaster pour installer l'outil, vous devrez utiliser le protocole Webdav pour téléverser les différents fichiers de paramétrage. Ci-dessous, vous trouverez les différentes étapes concernant le paramétrage sous windows : 
+
+
+
 > **Remarque** : si vous avez adopté ezmaster pour installer l'outil, vous devrez utiliser le protocole Webdav pour téléverser les différents fichiers de paramétrage. TODO: expliquer sous Linux, sous Windows
 
 
