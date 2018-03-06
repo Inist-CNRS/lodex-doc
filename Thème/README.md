@@ -18,7 +18,7 @@ Cette opération est plus ou moins simple suivant le contexte.
 
 Si vous avez adopté ezmaster pour installer l'outil, vous devrez utiliser le protocole Webdav pour téléverser les différents fichiers de paramétrage. Ci-dessous, vous trouverez les différentes étapes concernant le paramétrage sous windows :
 
-![](/assets/theme2.png)![](/assets/theme3.png)
+![](../assets/theme2.png)![](/assets/theme3.png)
 
 ![](/assets/theme4.png)
 
