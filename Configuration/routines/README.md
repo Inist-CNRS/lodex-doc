@@ -44,6 +44,26 @@ Le fichier hello-world.ini doit exister à l'adresse [https://raw.githubusercont
 
 Pour pouvoir utiliser une des routines de LODEX, il faut qu'elle soit déclarée dans le champ `routines` du fichier de configuration.
 
+Le résultat d'une routine peut être visualisé à partir d'une URL de la forme: 
+
+[http://**url-instance**/api/run/**routine**/**identifiant**](http://url-instance/api/run/routine/identifiant)
+
+où
+
+- **url-instance** est l'URL de l'instance
+- **routine** est la routine utilisée
+- **identifiant** est le code attributé par LODEX au champ représenté (voir dans le modèle)
+
+Dans les formats, elles doivent être déclarées dans `Value` (Valeur) selon: 
+
+/api/run/**routine**/**identifiant**
+
+où
+
+- **routine** est la routine utilisée
+- **identifiant** est le code attribué par LODEX au champ représenté (voir dans le modèle)
+
+
 ## Routines externes
 
 Il est possible d'écrire ses propres routines, et de les rendre accessibles à LODEX sans avoir le droit de modifier LODEX. Il suffit pour cela de mettre les fichiers sur le web, et de renseigner LODEX sur leur emplacement, en utilisant le champ `pluginsURL` du fichier de configuration.
