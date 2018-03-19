@@ -2,7 +2,7 @@
 
 Les routines de LODEX sont des scripts, fournis par LODEX, ou stockables n'importe où sur le web, qui peuvent effectuer des agrégations, des calculs, des reformatages et renvoyer des données sous une forme utilisable \(souvent par un [format](/Administration/Modèle/Format/README.md) de type graphique\).
 
-Les routines sont appelées via l'API web de LODEX, et s'appliquent à un champ (ou plus). Quand on connaît le nom de la routine à utiliser \(disons `routine-exemple`\), il suffit de l'ajouter derrière `/api/run/` pour obtenir la _route_ à utiliser \(comme valeur de champ pour un format graphique\): `/api/run/routine-exemple`.
+Les routines sont appelées via l'API web de LODEX, et s'appliquent à un champ \(ou plus\). Quand on connaît le nom de la routine à utiliser \(disons `routine-exemple`\), il suffit de l'ajouter derrière `/api/run/` pour obtenir la _route_ à utiliser \(comme valeur de champ pour un format graphique\): `/api/run/routine-exemple`.
 
 ## Déclaration dans la configuration
 
@@ -44,25 +44,28 @@ Le fichier hello-world.ini doit exister à l'adresse [https://raw.githubusercont
 
 Pour pouvoir utiliser une des routines de LODEX, il faut qu'elle soit déclarée dans le champ `routines` du fichier de configuration.
 
-Le résultat d'une routine peut être visualisé à partir d'une URL de la forme: 
+Le résultat d'une routine peut être visualisé à partir d'une URL de la forme:
 
 [http://**url-instance**/api/run/**routine**/**identifiant**](http://url-instance/api/run/routine/identifiant)
 
 où
 
-- **url-instance** est l'URL de l'instance
-- **routine** est la routine utilisée
-- **identifiant** est le code attributé par LODEX au champ représenté (voir dans le modèle)
+* **url-instance** est l'URL de l'instance
+* **routine** est la routine utilisée
+* **identifiant** est le code attributé par LODEX au champ représenté \(voir dans le modèle\)
 
-Dans les formats, elles doivent être déclarées dans `Value` (Valeur) selon: 
+Dans les formats, elles doivent être déclarées dans `Value` \(Valeur\) selon:
 
 /api/run/**routine**/**identifiant**
 
 où
 
-- **routine** est la routine utilisée
-- **identifiant** est le code attribué par LODEX au champ représenté (voir dans le modèle)
+* **routine** est la routine utilisée
+* **identifiant** est le code attribué par LODEX au champ représenté \(voir dans le modèle\)
 
+**Exemple** : pour le site exemple « Changement climatique - Recherche française \(avec laboratoires CNRS\) - 2010-2015 » à l'adresse suivante [http://lodex-cop21.dpi.inist.fr](http://lodex-cop21.dpi.inist.fr), les identifiants du modèle:
+
+![](/assets/ModeleIdentifiants.png)
 
 ## Routines externes
 
@@ -151,3 +154,4 @@ value = get('total')
 ```
 
 Cette section affecte la valeur du champ `total` à la variable du même nom.
+
