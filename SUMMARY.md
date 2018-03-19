@@ -11,6 +11,7 @@
   * [ARK](Configuration/ARK/README.md)
   * [routines](/Configuration/routines/README.md)
     * [all-documents](/Configuration/routines/AllDocuments.md)
+    * [all-fields](/Configuration/routines/AllFields.md)
   * [exporters](/Configuration/exporters/README.md)
   * [sémantique](/Configuration/LinkedOpenData/README.md)
 * [Affichages Front office](/AffichagesFrontOffice/README.md)
