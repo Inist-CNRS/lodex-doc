@@ -12,6 +12,8 @@
   * [routines](/Configuration/routines/README.md)
     * [all-documents](/Configuration/routines/AllDocuments.md)
     * [all-fields](/Configuration/routines/AllFields.md)
+    * [all-resources](/Configuration/routines/AllResources.md)
+    * [count-all](/Configuration/routines/CountAll.md)
   * [exporters](/Configuration/exporters/README.md)
   * [sémantique](/Configuration/LinkedOpenData/README.md)
 * [Affichages Front office](/AffichagesFrontOffice/README.md)
