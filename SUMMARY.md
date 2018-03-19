@@ -15,6 +15,7 @@
     * [all-resources](/Configuration/routines/AllResources.md)
     * [count-all](/Configuration/routines/CountAll.md)
     * [count-by-fields](/Configuration/routines/CountByFields.md)
+    * [distinct-by](/Configuration/routines/DistinctBy.md) 
   * [exporters](/Configuration/exporters/README.md)
   * [sémantique](/Configuration/LinkedOpenData/README.md)
 * [Affichages Front office](/AffichagesFrontOffice/README.md)

@@ -39,7 +39,7 @@ Le fichier hello-world.ini doit exister à l'adresse [https://raw.githubusercont
 * [all-resources](/Configuration/routines/AllResources.md)
 * [count-all](/Configuration/routines/CountAll.md)
 * [count-by-fields](/Configuration/routines/CountByFields.md)
-* distinct-by
+* [distinct-by](/Configuration/routines/DistinctBy.md)
 * syndication
 
 Pour pouvoir utiliser une des routines de LODEX, il faut qu'elle soit déclarée dans le champ `routines` du fichier de configuration.
