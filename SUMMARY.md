@@ -16,6 +16,7 @@
     * [count-all](/Configuration/routines/CountAll.md)
     * [count-by-fields](/Configuration/routines/CountByFields.md)
     * [distinct-by](/Configuration/routines/DistinctBy.md) 
+    * [syndication](/Configuration/routines/Syndication.md) 
   * [exporters](/Configuration/exporters/README.md)
   * [sémantique](/Configuration/LinkedOpenData/README.md)
 * [Affichages Front office](/AffichagesFrontOffice/README.md)
