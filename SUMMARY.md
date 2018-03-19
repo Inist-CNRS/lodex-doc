@@ -10,6 +10,7 @@
   * [restriction d'accès](Configuration/RestrictionAccès/README.md)
   * [ARK](Configuration/ARK/README.md)
   * [routines](/Configuration/routines/README.md)
+    * [all-documents](/Configuration/routines/AllDocuments.md)
   * [exporters](/Configuration/exporters/README.md)
   * [sémantique](/Configuration/LinkedOpenData/README.md)
 * [Affichages Front office](/AffichagesFrontOffice/README.md)
@@ -81,4 +82,6 @@
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
 * [Contribution](/contribution.md)
+
+
 
