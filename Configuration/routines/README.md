@@ -38,7 +38,7 @@ Le fichier hello-world.ini doit exister à l'adresse [https://raw.githubusercont
 * [all-fields](/Configuration/routines/AllFields.md)
 * [all-resources](/Configuration/routines/AllResources.md)
 * [count-all](/Configuration/routines/CountAll.md)
-* count-by-fields
+* [count-by-fields](/Configuration/routines/CountByFields.md)
 * distinct-by
 * syndication
 
