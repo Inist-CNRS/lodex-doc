@@ -1,6 +1,6 @@
 # pairing-with
 
-La routine pairing-with \(fournie sur [https://github.com/Inist-CNRS/lodex-extented/](https://github.com/Inist-CNRS/lodex-extented/)\) crée les paires \(`source` et `target`\) entre les éléments de 2 champs \(champs identiques ou différents\) déclarés selon :
+La routine `pairing-with` \(fournie sur [https://github.com/Inist-CNRS/lodex-extented/](https://github.com/Inist-CNRS/lodex-extented/)\) crée les paires \(`source` et `target`\) entre les éléments de 2 champs \(champs identiques ou différents\) déclarés selon :
 
 /api/run/pairing-with/**identifiant1**/**identifiant1**/
 

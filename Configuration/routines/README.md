@@ -75,7 +75,7 @@ Il est possible d'écrire ses propres routines, et de les rendre accessibles à 
 
 * distinct-ISO3166-1-alpha2-from
 * distinct-ISO3166-1-alpha3-from
-* graph-by
+* [graph-by](/Configuration/routines/GraphBy.md)
 * [pairing-with](/Configuration/routines/PairingWith.md)
 * Mettez vos fichiers de routines en ligne, dans un répertoire nommé `routines`, au format texte \(avec l'extension `.ini`\).
 

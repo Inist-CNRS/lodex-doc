@@ -17,6 +17,7 @@
     * [count-by-fields](/Configuration/routines/CountByFields.md)
     * [distinct-by](/Configuration/routines/DistinctBy.md) 
     * [syndication](/Configuration/routines/Syndication.md) 
+    * [graph-by](/Configuration/routines/GraphBy.md)
     * [pairing-with](/Configuration/routines/PairingWith.md)
   * [exporters](/Configuration/exporters/README.md)
   * [sémantique](/Configuration/LinkedOpenData/README.md)
