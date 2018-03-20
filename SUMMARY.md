@@ -17,6 +17,7 @@
     * [count-by-fields](/Configuration/routines/CountByFields.md)
     * [distinct-by](/Configuration/routines/DistinctBy.md) 
     * [syndication](/Configuration/routines/Syndication.md) 
+    * [distinct-ISO3166-1-alpha3-from](/Configuration/routines/DistinctISO31661Alpha3From.md)
     * [graph-by](/Configuration/routines/GraphBy.md)
     * [pairing-with](/Configuration/routines/PairingWith.md)
   * [exporters](/Configuration/exporters/README.md)
