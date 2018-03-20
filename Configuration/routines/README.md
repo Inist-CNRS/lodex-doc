@@ -71,13 +71,14 @@ où
 
 Il est possible d'écrire ses propres routines, et de les rendre accessibles à LODEX sans avoir le droit de modifier LODEX. Il suffit pour cela de mettre les fichiers sur le web, et de renseigner LODEX sur leur emplacement, en utilisant le champ `pluginsURL` du fichier de configuration.
 
+Mettez vos fichiers de routines en ligne, dans un répertoire nommé `routines`, au format texte \(avec l'extension `.ini`\).
+
 **Exemple**: `"pluginsURL": "https://raw.githubusercontent.com/Inist-CNRS/lodex-extented/master/"` qui fournit les routines suivantes :
 
-* distinct-ISO3166-1-alpha2-from
+* [distinct-ISO3166-1-alpha2-from](/Configuration/routines/DistinctISO31661Alpha2From.md)
 * [distinct-ISO3166-1-alpha3-from](/Configuration/routines/DistinctISO31661Alpha3From.md)
 * [graph-by](/Configuration/routines/GraphBy.md)
 * [pairing-with](/Configuration/routines/PairingWith.md)
-* Mettez vos fichiers de routines en ligne, dans un répertoire nommé `routines`, au format texte \(avec l'extension `.ini`\).
 
 ## Format des routines
 
