@@ -4,33 +4,47 @@
 
 Le camembert dispose de plusieurs paramètres : ![Paramètres du format Pie Chart](/assets/FormatPieChartParameters.png)
 
-## Maximum fields number
+## Maximum fields number, min value et max value
 
-Le nombre de champs maximal vaut 5 par défaut \(TODO préciser à quoi ça correspond\).
+Les paramètres `Maximum fields number`, `min value` et `max value` permettent de définir, pour le champ représenté, les éléments à afficher.
 
-## Min value
+Le paramètre `Maximum fields number` détermine le nombre maximum d'éléments à afficher \(5 par défaut\).
 
-TODO préciser
+Les paramètres `min value` et `max value` définissent les éléments à afficher en fonction de leur nombre d'apparitions dans le corpus.
 
-## Max value
+Seuls sont affichés les éléments dont le nombre d'apparitions est:
 
-TODO préciser
+* supérieur à la valeur de `min value`
+* inférieur à la valeur de `max value`
 
 ## Order by
 
-L'ordre de tri peut prendre quatre valeurs:
+L'ordre de tri peut prendre quatre valeurs en fonction:
 
-1. libellé ascendant
-2. libellé descendant
-3. valeur ascendante \(par défaut\)
-4. valeur descendante
+* des éléments `Label` du champ représenté \(ordre alphabétique\)
+  * Label ascendant
+  * Label descendant
+* des nombres d'apparitions \(`Valeur` \(_Value_\)\) des éléments du champ représenté
+  * valeur croissante \(par défaut\)
+  * valeur décroissante
 
 ![Ordres de tri du format Pie Chart](/assets/FormatBarChartOrderBy.png)
 
-## Colors set
+## Colour set \(jeu de couleurs\)
+
+Ce paramètre permet de choisir la ou les couleur\(s\) du graphique.
 
 La palette des couleurs se décrit par une liste de valeurs RGB hexadécimales séparées par un espace. Pour trouver facilement une palette lisible et plaisante, on peut utiliser l'outil [ColorBrewer](http://colorbrewer2.org/).
 
 ![Champ de saisie des couleurs du format Pie Chart](/assets/FormatColorsSet.png)
 
-TODO préciser quelle\(s\) couleur\(s\) est/sont appliqueé\(s\)
+## Routine
+
+Ce format nécessite l'utilisation de la routine [distinct-by](/Configuration/routines/DistinctBy.md), appliquée à l'identifiant du champ représenté, qui doit être déclarée dans `valeur` \(_value_\) selon :
+
+/api/run/distinct-by/**identifiant**/
+
+où **identifiant** est le code attribué par LODEX au champ représenté.
+
+
+
