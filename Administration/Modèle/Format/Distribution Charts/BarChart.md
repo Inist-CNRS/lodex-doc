@@ -77,11 +77,12 @@ Si d'autres valeurs \(par exemple pourcentage, taux de citation, _etc_.\) sont r
 
 Ce paramètre permet de changer l'échelle d'affichage des valeurs :
 
-* par défaut, échelle linéaire \(_linear_\)
-  pour l'échelle linéaire, deux graduations dont la différence vaut 10 sont à distance constante
+* par défaut, échelle linéaire \(_linear_\)  
+  pour l'échelle linéaire, deux graduations dont la _différence_ vaut 10 sont à distance constante
 
 * échelle logarithmique  
-  lorsqu'un phénomène utilisant une gamme étendue de valeurs est étudié, l'échelle linéaire est mal adaptée. Une échelle logarithmique qui espace les valeurs faibles et rapproche les valeurs fortes est préférable.
+  lorsqu'un phénomène utilisant une gamme étendue de valeurs est étudié, l'échelle linéaire est mal adaptée. Une échelle logarithmique qui espace les valeurs faibles et rapproche les valeurs fortes est préférable.  
+  Pour l'échelle logarithmique, deux graduations dont le _rapport_ vaut 10 sont à distance constante.
 
 ### largeur des barres \(_bars' width_\)
 
@@ -94,6 +95,4 @@ Ce format nécessite l’utilisation de la routine [distinct-by](/Configuration/
 /api/run/distinct-by/**identifiant**/
 
 où **identifiant** est le code attribué par LODEX au champ représenté.
-
-
 
