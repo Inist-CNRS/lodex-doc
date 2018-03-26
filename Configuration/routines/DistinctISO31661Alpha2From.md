@@ -11,5 +11,4 @@ Elle est, en particulier, utilisée avec le format [Cartography](/Administration
 
 **Exemple :** [http://lodex-cop21.dpi.inist.fr/api/run/distinct-ISO3166-1-alpha2-from/g61g/](http://lodex-cop21.dpi.inist.fr/api/run/distinct-ISO3166-1-alpha2-from/g61g/) où g61g = PaysENGRSansFrance \(pays verbalisé en anglais: Algeria, Argentina, Australia, etc.\)
 
-![](/assets/RoutineDistinctISO31661Alpha2From.png)
-
+![Résultat JSON de la routine distinct-ISO3166-1-alpha2-from](/assets/RoutineDistinctISO31661Alpha2From.png)

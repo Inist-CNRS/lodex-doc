@@ -10,6 +10,3 @@ Renvoie une chaîne de caractères où tous les caractères sont en majuscules.
 | 5 | "5" |
 | { "a": "hello", "b": "world" } | null |
 | "Héhé" | "HÉHÉ" |
-
-
-

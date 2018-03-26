@@ -4,7 +4,7 @@ Concatène les valeurs de deux colonnes du fichier tabulé de départ \(dans un 
 
 > **Remarque** : ce _transformer_ est caché, il est disponible dans le menu :
 >
-> ![](/assets/AdminModeleConcat.png)
+> ![Deuxième partie du menu](/assets/AdminModeleConcat.png)
 
 ## Exemple
 
@@ -21,8 +21,3 @@ Résultats :
 
 1. `[ "prem", "ière" ]`
 2. `[ "deux", "ième" ]`
-
-
-
-
-

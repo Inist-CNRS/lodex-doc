@@ -18,15 +18,10 @@ Cette opération est plus ou moins simple suivant le contexte.
 
 Si vous avez adopté ezmaster pour installer l'outil, vous devrez utiliser le protocole Webdav pour téléverser les différents fichiers de paramétrage. Ci-dessous, vous trouverez les différentes étapes concernant le paramétrage sous windows :
 
-![](../assets/theme2.png)![](../assets/theme3.png)
-
-![](../assets/theme4.png)
-
-![](../assets/theme5.png)
-
-![](../assets/theme6.png)
+![Interface ezMaster de chargement de fichiers](../assets/theme2.png)
+![Interface Explorer de Windows](../assets/theme3.png)
+![Interface Explorer de Windows, WebDav](../assets/theme4.png)
+![Copie des fichiers sous Windows](../assets/theme5.png)
+![Interface ezMaster pour redémarrer l'instance](../assets/theme6.png)
 
 > **Remarque** : si vous avez adopté ezmaster pour installer l'outil, vous devrez utiliser le protocole Webdav pour téléverser les différents fichiers de paramétrage. TODO: expliquer sous Linux,
-
-
-

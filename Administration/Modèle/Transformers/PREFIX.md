@@ -9,6 +9,3 @@ Préfixe une valeur de champ avec une chaîne de caractères. Lorsque la valeur 
 | "dear world" | "hello" | "hello dear world" |
 | undefined | "hello" | "hello" |
 | \[ "dear", "world" \] | "hello" | \[ "hello", "dear", "world" \] |
-
-
-

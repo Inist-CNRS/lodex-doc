@@ -14,10 +14,7 @@ Elle peut, en particulier, être utilisée avec les formats [Network](/Administr
 
 **Exemples** :
 
-1. [http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/Xmzn/](http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/Xmzn/) 
-   ![](/assets/RoutinePairingWith1.png)
-2. [http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/WXcA/](http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/WXcA/)  
-   ![](/assets/RoutinePairingWith2.png)
-
-
-
+1. [http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/Xmzn/](http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/Xmzn/)
+   ![Résultat de la routinr pairing-with avec un seul champ](/assets/RoutinePairingWith1.png)
+2. [http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/WXcA/](http://lodex-cop21.dpi.inist.fr/api/run/pairing-with/Xmzn/WXcA/)
+   ![Résultat de la routine pairing-with avec deux champs](/assets/RoutinePairingWith2.png)

@@ -20,6 +20,3 @@ Après validation de la contribution
 Au niveau  du menu `Contributed  ressources`, la ressource modifiée et validée se trouve dans la liste `list resources with validated contribution`, ce qui vous permet de disposer d'un suivi des contributions par statut :
 
 ![Liste des ressources avec contribution validée](/assets/moderation4.png)
-
-
-

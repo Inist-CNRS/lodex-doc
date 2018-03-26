@@ -11,6 +11,3 @@ Dédoublonne les valeurs de la valeur du champ quand c'est un tableau. Retourne 
 | 0 | 0 |
 | "hello" | "hello" |
 | { "a": "hello", "b": "world" } | null |
-
-
-

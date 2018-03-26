@@ -17,11 +17,13 @@ Pour chaque intitulé de colonne, le système vous propose cette fenêtre, corre
 ### 1 - General informations
 
 Cinq éléments sont à renseigner :
+
 1. Label ;
 2. Select a coverage ;
 3. scheme ;
 4. add new class ;
 5. Langue.
+
 ![Étape Informations générales](/assets/parametrage3.png)
 Le _label_ ainsi que le _coverage_ sont à renseigner obligatoirement, mais à votre convenance.
 
@@ -48,6 +50,7 @@ Cette opération vous permet de déclarer en  langage RDF une ressource anonyme 
 
 **Deux** possibilités vous sont offertes :
 ![Étape sémantique](/assets/parametre6.png)
+
 1. _Annotate another field_ : à utiliser lorsque vous voulez préciser la valeur d'une colonne par rapport à une autre. Par exemple pour préciser la source d'une définition; pour cela, on sélectionnera la colonne de définition dans le menu déroulant lors du paramétrage de la colonne source ;
 2. _Compose this field_ : à utiliser lorsque vous voulez, au sens du web sémantique, composer un champ à partir d'un ou plusieurs champs. Par exemple, une adresse est composée d'un nom de rue, d'une ville, d'un pays ; pour cela, on sélectionnera les colonnes nom de rue, ville et pays lors du paramétrage de la colonne adresse.
 
@@ -79,10 +82,9 @@ Pour ce faire, ajoutez une nouvelle colonne au niveau du jeu de données, en cli
 - label : Liste des ressources \(par exemple\)
 - select a coverage : Apply to whole dataset
 
-
 **2  "How the value is generated":**
 
-- An arbitary value :  /api/run/syndication 
+- An arbitary value :  /api/run/syndication
 
 **  5 "How and where it is displayed":**
 
@@ -92,4 +94,3 @@ Pour ce faire, ajoutez une nouvelle colonne au niveau du jeu de données, en cli
 L'ultime étape correspond à la publication de votre jeu de données, en cliquant sur le bouton `PUBLISH` en haut à droite :
 
 ![Écran d'administration d'un jeu prêt à être publié](/assets/publicationjeudedonnées.png)
-

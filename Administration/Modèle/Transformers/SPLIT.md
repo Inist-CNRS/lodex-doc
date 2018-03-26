@@ -11,6 +11,3 @@ Découpe une chaîne de caractères, en séparant les morceaux grâce à la cha�
 | "hello dear world" | " dear " | \[ "hello", "world" \] |
 | "séparer les mots" | " " | \[ "séparer", "les", "mots" \] |
 | undefined | " dear " | \[ \] |
-
-
-

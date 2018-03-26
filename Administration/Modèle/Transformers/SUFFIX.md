@@ -11,6 +11,3 @@ Ajoute une chaîne de caractères à la fin de la valeur du champ. Lorsque la va
 | "hello dear" | " world" | "hello dear world" |
 | undefined | "hello" | "hello" |
 | \[ "hello", "dear" \] | "world" | \[ "hello", "dear", "world" \] |
-
-
-

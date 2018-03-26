@@ -23,7 +23,4 @@ où
 
 **Exemple** : [http://lodex-cop21.dpi.inist.fr/api/run/distinct-by/Yq6u/](http://lodex-cop21.dpi.inist.fr/api/run/distinct-by/Yq6u/) où `Yq6u` = `Year`
 
-![](/assets/RoutineDistinctBy.png)
-
-
-
+![Résultat JSON de la routine distinct-by](/assets/RoutineDistinctBy.png)

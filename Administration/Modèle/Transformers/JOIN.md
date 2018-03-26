@@ -12,6 +12,3 @@ Rassemble les élements d'un tableau dans une chaîne de caractères, en les sé
 | \[ "pré", "fixe" \] | "" | "préfixe" |
 
 > **À noter** : si le paramètre ne contient pas d'espace, les chaînes de caractères du tableau seront collées.
-
-
-

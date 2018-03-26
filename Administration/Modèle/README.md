@@ -9,6 +9,3 @@ Les champs ont plusieurs caractéristiques :
 * des [formats](/Administration/Modèle/Format/README.md) d'affichage
 
 Par ailleurs, le modèle peut être [exporté](/Administration/Modèle/Export/README.md), et donc aussi [importé](/Administration/Modèle/Import/README.md).
-
-
-

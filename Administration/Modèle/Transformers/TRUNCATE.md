@@ -13,6 +13,3 @@ Le nombre indique la position du caractère \(ou de l'élément dans le cas d'un
 | "hello world" | 5 | "hello" |
 | \[ 1, 2, 3, 4, 5 \] | 3 | \[ 1, 2, 3 \] |
 | \[ 0, 1, 2, 3, 4 \] | 1 | \[ 0 \] |
-
-
-

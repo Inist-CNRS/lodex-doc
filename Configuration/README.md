@@ -18,4 +18,3 @@ Mais que vous modifiiez ce fichier via votre éditeur préféré ou en utilisant
 * [réglages sémantiques](/Configuration/LinkedOpenData/README.md) \(_optionnel:_ exposer ses données suivant les formats du web sémantique\)
 
 ![Fichier de configuration](/assets/panneaudedonfiguration.png)
-

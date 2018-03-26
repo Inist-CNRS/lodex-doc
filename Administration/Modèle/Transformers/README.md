@@ -37,6 +37,3 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md) : dédoublonne les valeurs \(dans un tableau\)
 
 * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md) : mettre la chaîne en majuscules
-
-
-

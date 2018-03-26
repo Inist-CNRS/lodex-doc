@@ -4,7 +4,4 @@ La routine `count-by-fields` compte le nombre de documents du corpus pour chacun
 
 **Exemple** : [http://lodex-cop21.dpi.inist.fr/api/run/count-by-fields/](http://lodex-cop21.dpi.inist.fr/api/run/count-by-fields/)
 
-![](/assets/RoutineCountByFields.png)
-
-
-
+![Résultat JSON de la routine count-by-fields](/assets/RoutineCountByFields.png)

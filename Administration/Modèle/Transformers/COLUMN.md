@@ -14,6 +14,3 @@ Fichier CSV:
 Paramètre de COLUMN : `a`
 
 Résultat : `valeur de a` \(pour la première ressource\), `deuxième valeur de a` \(pour la deuxième ressource\)
-
-
-

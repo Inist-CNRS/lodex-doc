@@ -13,6 +13,3 @@ Transforme la valeur du champ en une chaîne de caractères. Ceci n'est utile qu
 | null | "" |
 | undefined | "" |
 | { "a": "hello", "b": "world" } | "" |
-
-
-

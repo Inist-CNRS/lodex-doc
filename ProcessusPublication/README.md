@@ -18,6 +18,5 @@ Si au préalable vous avez déjà créé un modèle et exporté ce dernier, il v
 
 Pour cela, il vous suffit de cliquer sur le bouton `IMPORT MODEL` pour aller récupérer le modèle stocké sur votre disque dur.
 
-![Écran d&apos;administration avant chargement des données](/assets/parametre7.png)  
+![Écran d&apos;administration avant chargement des données](/assets/parametre7.png)
 Il vous reste, si vous le jugez nécessaire, à modifier le paramétrage des colonnes, à enlever et à ajouter une ou plusieurs colonnes.
-

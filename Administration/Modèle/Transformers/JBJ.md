@@ -12,7 +12,7 @@ Pour verbaliser un code, par exemple, on peut utiliser l'action JBJ `mapping` \(
 
 Valeur de départ : `"0"`
 
-Paramètre du _transformer_ JBJ : 
+Paramètre du _transformer_ JBJ :
 
 ```js
 {
@@ -25,6 +25,3 @@ Paramètre du _transformer_ JBJ :
 ```
 
 Résultat: `"Première verbalisation"`
-
-
-

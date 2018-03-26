@@ -1,4 +1,4 @@
-## Vous êtes visiteur ou internaute
+# Vous êtes visiteur ou internaute
 
 Si vous êtes internaute, au niveau de l'affichage complet d'une ressource, vous avez la possibilité de proposer l'ajout de qualificatifs à une ressource et d'exporter les données de cette ressource.
 
@@ -10,4 +10,3 @@ Si vous cliquez sur `ADD FIELD`, le système vous propose ce formulaire de saisi
 
 Après validation par l'administrateur :
 ![Champ avec statut "Contributed"](/assets/editionpageinternaute3.png)
-

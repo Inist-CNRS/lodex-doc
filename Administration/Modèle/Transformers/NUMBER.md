@@ -16,6 +16,3 @@ Transforme la valeur du champ en un nombre. Ceci n'est utile que si la valeur at
 | "45a" | 0 |
 | "45 65" | 0 |
 | { "a": "hello", "b": "world" } | 0 |
-
-
-

@@ -1,6 +1,6 @@
 # BOOLEAN
 
-Transforme la valeur du champ en un booléen \(dont la valeur ne peut être que `true `ou `false`, vrai ou faux\). Ceci n'est utile que si la valeur attendue est un booléen \(par défaut, la valeur d'un champ est une chaîne de caractères\).
+Transforme la valeur du champ en un booléen \(dont la valeur ne peut être que `true` ou `false`, vrai ou faux\). Ceci n'est utile que si la valeur attendue est un booléen \(par défaut, la valeur d'un champ est une chaîne de caractères\).
 
 Toute chaîne de caractères valant `true`, `1`, `on`, `ok`, `oui`, `yes` ou `true` sera vraie, et toute autre chaîne sera fausse \(excepté si on encadre les valeurs de vérité par des espaces\).
 
@@ -31,6 +31,3 @@ Tableau de conversion :
 | { } | false |
 | undefined | false |
 | null | false |
-
-
-

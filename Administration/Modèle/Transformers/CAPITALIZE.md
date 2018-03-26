@@ -11,6 +11,3 @@ Exemples :
 | "hello" | "Hello" |
 | null | null |
 | 5 | 5 |
-
-
-

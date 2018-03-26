@@ -12,7 +12,7 @@ Après sélection d'un des choix, cliquez sur le **bouton SAVE.**
 
 L'étape suivante consiste à paramétrer/styler les colonnes de votre tableau.
 
-En sélectionnant `Generate URIs automatically`, LODEX génère un identifiant automatiquement, en fonction de la présence des paramètres `naan` et `subpublisher` dans le[ fichier de configuration](/Configuration/README.md).
+En sélectionnant `Generate URIs automatically`, LODEX génère un identifiant automatiquement, en fonction de la présence des paramètres `naan` et `subpublisher` dans le [fichier de configuration](/Configuration/README.md).
 
 Si les paramètres sont présents, ils sont utilisés pour générer un ARK valide \(voir l'article [Destination ARK: vos papiers](http://lodex.inist.fr/2016/09/destinationn-ark-papier/)\).
 

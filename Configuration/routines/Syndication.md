@@ -8,5 +8,4 @@ Elle doit alors être déclarée dans `Value` \(Valeur\) selon :
 
 /api/run/syndication
 
-**Exemple** : [http://lodex-cop21.dpi.inist.fr/api/run/syndication/](http://lodex-cop21.dpi.inist.fr/api/run/syndication/)![](/assets/RoutineSyndication.png)
-
+**Exemple** : [http://lodex-cop21.dpi.inist.fr/api/run/syndication/](http://lodex-cop21.dpi.inist.fr/api/run/syndication/)![Résultat JSON de la routine syndication](/assets/RoutineSyndication.png)

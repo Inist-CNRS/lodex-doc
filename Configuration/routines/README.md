@@ -65,7 +65,7 @@ où
 
 **Exemple** : pour le site exemple « Changement climatique - Recherche française \(avec laboratoires CNRS\) - 2010-2015 » à l'adresse suivante [http://lodex-cop21.dpi.inist.fr](http://lodex-cop21.dpi.inist.fr), les identifiants du modèle:
 
-![](/assets/ModeleIdentifiants.png)
+![Colonne des identifiants de champs dans la vue du modèle](/assets/ModeleIdentifiants.png)
 
 ## Routines externes
 
@@ -159,4 +159,3 @@ value = get('total')
 ```
 
 Cette section affecte la valeur du champ `total` à la variable du même nom.
-

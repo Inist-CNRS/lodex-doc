@@ -13,6 +13,3 @@ Supprime les espaces au début et à la fin de la valeur du champ quand c'est un
 | 5 | 5 |
 | { "a": 1, "b": 2 } | { "a": 1, "b": 2 } |
 | \[ 1, 2, 3 \] | \[ 1, 2, 3 \] |
-
-
-

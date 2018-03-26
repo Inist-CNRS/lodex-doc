@@ -22,4 +22,3 @@ Que lire sur cet écran ?
 Les trois actions permises à l'aide du **bouton `+` : **
 ![Les boutons d'ajout de colonne](/assets/écranchargementdonnées6.png)
 Après cette lecture, l'étape suivante est la [création de l'URI](/ProcessusPublication/CreationURI/README.md).
-

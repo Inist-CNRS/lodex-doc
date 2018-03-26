@@ -10,5 +10,4 @@ Elle doit alors être déclarée dans `Value` \(Valeur\) selon :
 
 **Exemple** : [http://lodex-cop21.dpi.inist.fr/api/run/count-all/](http://lodex-cop21.dpi.inist.fr/api/run/count-all/)
 
-![](/assets/RoutineCountAll.png)
-
+![Résultat de la routine count-all](/assets/RoutineCountAll.png)

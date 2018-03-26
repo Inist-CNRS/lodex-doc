@@ -16,11 +16,8 @@ Elle peut, en particulier, être utilisée avec les formats [Network](/Administr
 
 1. [http://lodex-cop21.dpi.inist.fr/api/run/graph-by/Xmzn/](http://lodex-cop21.dpi.inist.fr/api/run/graph-by/Xmzn/)
    où Xmzn = CodeCNRS2015
-   ![](/assets/RoutineGraphBy1.png)
+   ![Résultat de la routine graph-by avec un seul paramètre](/assets/RoutineGraphBy1.png)
 
-2. [http://lodex-cop21.dpi.inist.fr/api/run/graph-by/Xmzn/WXcA/](http://lodex-cop21.dpi.inist.fr/api/run/graph-by/Xmzn/WXcA/)  
-   où Xmzn = CodeCNRS2015 et WXcA = Web of Science Category\(ies\)  
-   ![](/assets/RoutineGraphBy2.png)
-
-
-
+2. [http://lodex-cop21.dpi.inist.fr/api/run/graph-by/Xmzn/WXcA/](http://lodex-cop21.dpi.inist.fr/api/run/graph-by/Xmzn/WXcA/)
+   où Xmzn = CodeCNRS2015 et WXcA = Web of Science Category\(ies\)
+   ![Résultat de la routine graph-by avec deux paramètres](/assets/RoutineGraphBy2.png)
