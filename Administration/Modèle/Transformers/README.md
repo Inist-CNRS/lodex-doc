@@ -14,13 +14,19 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 
 * [DEFAULT](/Administration/Modèle/Transformers/DEFAULT.md) : donner une valeur par défaut
 
+* [FORMAT](/Administration/Modèle/Transformers/FORMAT.md) : appliquer un patron \(_template_\)
+
 * [JBJ](/Administration/Modèle/Transformers/JBJ.md) : appliquer une feuille de style [JBJ](http://inist-cnrs.github.io/jbj-playground/) à la valeur
 
 * [JOIN](/Administration/Modèle/Transformers/JOIN.md) : rassemble les valeurs d'un tableau en une chaîne de caractères
 
+* [LOWERCASE](/Administration/Modèle/Transformers/LOWERCASE.md) : mettre en bas de casse \(minuscules\)
+
 * [NUMBER](/Administration/Modèle/Transformers/NUMBER.md) : transformer une chaîne de caractères en nombre
 
 * [PREFIX](/Administration/Modèle/Transformers/PREFIX.md) : préfixer la valeur avec une chaîne de caractères
+
+* [REMOVE](/Administration/Modèle/Transformers/REMOVE.md) : supprimer un élément ou une sous-chaîne
 
 * [SHIFT](/Administration/Modèle/Transformers/SHIFT.md) : décaler une valeur multiple \(tableau ou chaîne de caractères\)
 
@@ -37,3 +43,6 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md) : dédoublonne les valeurs \(dans un tableau\)
 
 * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md) : mettre la chaîne en majuscules
+
+
+
