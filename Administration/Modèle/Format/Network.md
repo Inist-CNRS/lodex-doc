@@ -50,7 +50,7 @@ Si le réseau est _unimodal_ \(un seul champ représenté\), ce format nécessit
 
 où **identifiant** est le code attribué par LODEX au champ représenté.
 
-Si le réseau est _multimodal_ \(plusieurs champs représentés\), ce format nécessite l'utilisation de la routine pairing-with, appliquée aux identifiants des champs représentés, qui doit être déclarée dans `valeur` \(_value_\) selon :
+Si le réseau est _multimodal_ \(plusieurs champs représentés\), ce format nécessite l'utilisation de la routine [pairing-with](/Configuration/routines/PairingWith.md), appliquée aux identifiants des champs représentés, qui doit être déclarée dans `valeur` \(_value_\) selon :
 
 /api/run/pairing-with/**identifiant1**/**identifiant2**/
 
