@@ -10,5 +10,9 @@ Rassemble les élements d'un tableau dans une chaîne de caractères, en les sé
 | :--- | :--- | :--- |
 | \[ "hello", "world" \] | " dear " | "hello dear world" |
 | \[ "pré", "fixe" \] | "" | "préfixe" |
+| null | " dear " | "" |
 
 > **À noter** : si le paramètre ne contient pas d'espace, les chaînes de caractères du tableau seront collées.
+
+
+
