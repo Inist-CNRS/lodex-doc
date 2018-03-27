@@ -79,10 +79,14 @@
       * [COLUMN](/Administration/Modèle/Transformers/COLUMN.md)
       * [CONCAT](/Administration/Modèle/Transformers/CONCAT.md)
       * [DEFAULT](/Administration/Modèle/Transformers/DEFAULT.md)
+      * [FORMAT](/Administration/Modèle/Transformers/FORMAT.md)
       * [JBJ](/Administration/Modèle/Transformers/JBJ.md)
       * [JOIN](/Administration/Modèle/Transformers/JOIN.md)
+      * [LOWERCASE](/Administration/Modèle/Transformers/LOWERCASE.md)
       * [NUMBER](/Administration/Modèle/Transformers/NUMBER.md)
       * [PREFIX](/Administration/Modèle/Transformers/PREFIX.md)
+      * [REMOVE](/Administration/Modèle/Transformers/REMOVE.md)
+      * [REPLACE](/Administration/Modèle/Transformers/REPLACE.md)
       * [SHIFT](/Administration/Modèle/Transformers/SHIFT.md)
       * [SPLIT](/Administration/Modèle/Transformers/SPLIT.md)
       * [STRING](/Administration/Modèle/Transformers/STRING.md)
@@ -92,3 +96,6 @@
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
 * [Contribution](/contribution.md)
+
+
+
