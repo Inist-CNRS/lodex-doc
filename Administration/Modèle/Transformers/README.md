@@ -28,6 +28,8 @@ Les transformeurs sont des opérateurs, appliqués en séquence \(quand on en ut
 
 * [REMOVE](/Administration/Modèle/Transformers/REMOVE.md) : supprimer un élément ou une sous-chaîne
 
+* [REPLACE](/Administration/Modèle/Transformers/REPLACE.md) : remplacer une chaîne par une autre
+
 * [SHIFT](/Administration/Modèle/Transformers/SHIFT.md) : décaler une valeur multiple \(tableau ou chaîne de caractères\)
 
 * [SPLIT](/Administration/Modèle/Transformers/SPLIT.md) : segmente une chaîne de caractères en tableau
