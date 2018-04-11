@@ -1,6 +1,6 @@
 # distinct-ISO3166-1-alpha2-from
 
-La routine `distinct-ISO3166-1-alpha2-from` \(fournie par [https://github.com/Inist-CNRS/lodex-extented/](https://github.com/Inist-CNRS/lodex-extented/)\) transforme les pays verbalisés du champ représenté en leurs codes ISO 2 et compte, pour chaque code ISO 2 du pays du champ représenté \(identifiant\), le nombre de fois où ce pays apparaît qui correspond à :
+La routine distinct-ISO3166-1-alpha2-from \(fournie par https://github.com/Inist-CNRS/lodex-extented/\) transforme les pays verbalisés du champ représenté en leurs codes ISO 2 et compte, pour chaque code ISO 2 du pays du champ représenté \(identifiant\), le nombre de fois où ce pays apparaît qui correspond à :
 
 * nombre d'occurrences si le champ n'est pas dédoublonné
 * nombre de documents si le champ est dédoublonné
@@ -12,3 +12,4 @@ Elle est, en particulier, utilisée avec le format [Cartography](/Administration
 **Exemple :** [http://lodex-cop21.dpi.inist.fr/api/run/distinct-ISO3166-1-alpha2-from/g61g/](http://lodex-cop21.dpi.inist.fr/api/run/distinct-ISO3166-1-alpha2-from/g61g/) où g61g = PaysENGRSansFrance \(pays verbalisé en anglais: Algeria, Argentina, Australia, etc.\)
 
 ![Résultat JSON de la routine distinct-ISO3166-1-alpha2-from](/assets/RoutineDistinctISO31661Alpha2From.png)
+
