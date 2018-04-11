@@ -1,4 +1,6 @@
-# distinct-ISO3166-1-alpha3-from
+```
+distinct-ISO3166-1-alpha3-from
+```
 
 La routine `distinct-ISO3166-1-alpha3-from` \(fournie par [https://github.com/Inist-CNRS/lodex-extented/](https://github.com/Inist-CNRS/lodex-extented/)\) transforme les pays verbalisés du champ représenté en leurs codes ISO 3 et compte, pour chaque code ISO 3 du pays du champ représenté \(identifiant\), le nombre de fois où ce pays apparaît qui correspond à :
 
@@ -12,3 +14,4 @@ Elle est, en particulier, utilisée avec le format [Cartography](/Administration
 **Exemple :** [http://lodex-cop21.dpi.inist.fr/api/run/distinct-ISO3166-1-alpha3-from/g61g/](http://lodex-cop21.dpi.inist.fr/api/run/distinct-ISO3166-1-alpha3-from/g61g/) où g61g = PaysENGRSansFrance \(pays verbalisé en anglais: Algeria, Argentina, Australia, etc.\).
 
 ![Résultat de la routine distinct-ISO3166-1-alpha3-from](/assets/RoutineDistinctISO31661Alpha3From.png)
+
