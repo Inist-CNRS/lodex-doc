@@ -1,6 +1,6 @@
 # distinct-alpha-2-alpha3-from
 
-La routine distinct-alpha-2-alpha3-from  \(fournie par [https://github.com/Inist-CNRS/lodex-extented/](https://legacy.gitbook.com/book/lodex/lodex-user-documentation/edit)\) transforme les codes ISO 2 des pays du champ représenté en leurs codes ISO 3 et compte, pour chaque code ISO 3 du pays du champ représenté \(identifiant\), le nombre de fois où ce pays apparaît qui correspond à :
+La routine `distinct-alpha-2-alpha3-from ` \(fournie par [https://github.com/Inist-CNRS/lodex-extented/](https://legacy.gitbook.com/book/lodex/lodex-user-documentation/edit)\) transforme les codes ISO 2 des pays du champ représenté en leurs codes ISO 3 et compte, pour chaque code ISO 3 du pays du champ représenté \(identifiant\), le nombre de fois où ce pays apparaît qui correspond à :
 
 * nombre d'occurrences si le champ n'est pas dédoublonné
 * nombre de documents si le champ est dédoublonné
