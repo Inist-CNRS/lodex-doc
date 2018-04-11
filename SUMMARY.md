@@ -19,6 +19,7 @@
     * [syndication](/Configuration/routines/Syndication.md)
     * [distinct-ISO3166-1-alpha2-from](/Configuration/routines/DistinctISO31661Alpha2From.md)
     * [distinct-ISO3166-1-alpha3-from](/Configuration/routines/DistinctISO31661Alpha3From.md)
+    * [distinct-alpha-2-alpha3-from](Configuration/routines/DistinctAlpha2Alpha3From.md)
     * [graph-by](/Configuration/routines/GraphBy.md)
     * [pairing-with](/Configuration/routines/PairingWith.md)
   * [exporters](/Configuration/exporters/README.md)
@@ -96,5 +97,4 @@
       * [UNIQ](/Administration/Modèle/Transformers/UNIQ.md)
       * [UPPERCASE](/Administration/Modèle/Transformers/UPPERCASE.md)
 * [Contribution](/contribution.md)
-* [distinct-alpha-2-alpha3-from](distinct-alpha-2-alpha3-from.md)
 
