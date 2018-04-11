@@ -76,8 +76,8 @@ Mettez vos fichiers de routines en ligne, dans un répertoire nommé `routines`,
 **Exemple**: `"pluginsURL": "https://raw.githubusercontent.com/Inist-CNRS/lodex-extented/master/"` qui fournit les routines suivantes :
 
 * [distinct-ISO3166-1-alpha2-from](/Configuration/routines/DistinctISO31661Alpha2From.md)
-* distinct-ISO3166-1-alpha3-from
-* distinct-alpha-2-alpha3-from[DistinctAlpha2Alpha3From.md](/Configuration/routines/DistinctAlpha2Alpha3From.md)
+* [distinct-ISO3166-1-alpha3-from](//Configuration/routines/DistinctISO31661Alpha3From.md)
+* [distinct-alpha-2-alpha3-from](/Configuration/routines/DistinctAlpha2Alpha3From.md)
 * [graph-by](/Configuration/routines/GraphBy.md)
 * [pairing-with](/Configuration/routines/PairingWith.md)
 
