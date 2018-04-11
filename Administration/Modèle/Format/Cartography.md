@@ -20,7 +20,7 @@ Si le corpus de données comporte un champ avec les [codes ISO](https://fr.wikip
 
 où **identifiant** est le code attribué par LODEX au champ contenant les codes ISO 3 des pays.
 
-Si le corpus de données ne comporte pas les codes ISO 3 des pays, ce format nécessite l'utilisation de la route [distinct-ISO3166-1-alpha3-from](//Configuration/routines/DistinctISO31661Alpha3From.md), appliquée à l'identifiant du champ contenant les **pays verbalisés**, \(ou la route [distinct-alpha-3-alpha2-from](/Configuration/routines/DistinctAlpha3Alpha2From.md), appliquée à l'identifiant du champ contenant les c**codes ISO 2 des pays**\) qui doit être déclarée dans `valeur` \(_value_\) selon:
+Si le corpus de données ne comporte pas les codes ISO 3 des pays, ce format nécessite l'utilisation de la route [distinct-ISO3166-1-alpha3-from](//Configuration/routines/DistinctISO31661Alpha3From.md), appliquée à l'identifiant du champ contenant les **pays verbalisés**, \(ou la route [distinct-alpha-2-alpha3-from](/Configuration/routines/DistinctAlpha2Alpha3From.md), appliquée à l'identifiant du champ contenant les **codes ISO 2 des pays**\) qui doit être déclarée dans `valeur` \(_value_\) selon:
 
 /api/run/distinct-ISO3166-1-alpha3-from/**identifiant**/ \(ou /api/run/distinct-alpha-2-alpha3-from/**identifiant**/\)
 
