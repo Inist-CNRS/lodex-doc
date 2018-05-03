@@ -46,11 +46,11 @@ La palette des couleurs se décrit par une liste de valeurs RGB hexadécimales s
 
 Ce format nécessite l'utilisation de requête avec un format prédifini.
 
-Les données qui seront affichés dans le graphe devront être dans le SELECT et devront utilisé un alias (ex: `(count(*) as ?value)` ): 
+Les données qui seront affichés dans le graphe devront être dans le SELECT et devront utilisé un alias : 
  * `?label` pour la légende
  * `?value` pour les valeurs du graphe
 
-
+exemple: `(count(*) as ?value)` 
 
 
 
