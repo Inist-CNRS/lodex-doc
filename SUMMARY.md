@@ -70,7 +70,7 @@
       * [Title](/Administration/Modèle/Format/Title.md)
       * [Trello Timeline](/Administration/Modèle/Format/TrelloTimeLine.md)
       * [Internal URI](/Administration/Modèle/Format/Uri.md)
-      * [Sparql Request](Administration/Modèle/Format/sparql-request.md)
+      * [Sparql Pie Chart](Administration/Modèle/Format/sparql-request.md)
     * [import](/Administration/Modèle/Import/README.md)
     * [routine](/Administration/Modèle/Routine/README.md)
     * [sémantique](/Administration/Modèle/Sémantique/README.md)
