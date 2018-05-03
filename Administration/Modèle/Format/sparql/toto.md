@@ -1,3 +1,6 @@
+DIPONIBLE EN 8.18.7+
+
+
 # Sparql Pie Chart
 
 ![Cammebert](/assets/FormatPieChart.png)
