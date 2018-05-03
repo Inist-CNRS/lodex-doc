@@ -8,7 +8,7 @@ Le camembert dispose de plusieurs paramètres :
 
 Les paramètres `Maximum fields number`, `min value` et `max value` permettent de définir, pour le champ représenté, les éléments à afficher. 
 
-## Sparql_hostname
+## Sparql_endpoint
 
 Le paramètre `Sparql_hostname` permet de selectionner la base de données sparql \(data.istex.fr/sparql/ par défaut\)
 
