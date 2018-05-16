@@ -23,7 +23,7 @@ Exemple :
 
 ## Sparql request
 
-Le paramètre `SPARQL request` contient la requête qu va être exécutée sur le *endpoint*.
+Le paramètre `SPARQL request` contient la requête qu va être exécutée sur le _endpoint_.
 
 Pour indiquer la ressource qui va être incluse dans la requête, elle devra être signalée par "`??`".
 
@@ -35,16 +35,16 @@ Les valeurs ne seront prises en compte que lors du chargement de la page.
 
 Le paramètre `max value` ignore la clause LIMIT pour la remplacer par la valeur fixée.
 
-Augmenter le nombre de requêtes influe sur le temps de réponse du *enpoint* interrogé.
+Augmenter le nombre de requêtes influe sur le temps de réponse du _enpoint_ interrogé.
 
-Autrement dit, c'est le nombre de lignes (ou de résultats) affichées.
+Autrement dit, c'est le nombre de lignes \(ou de résultats\) affichées.
 
 ## Exemple
 
-- Valeur du champ : `Physiology`
-- Requête SPARQL (notez les `??`) :
+* Valeur du champ : `Physiology`
+* Requête SPARQL \(notez les `??`\) :
 
-```
+```sql
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 SELECT ?genericLabel
 WHERE {
@@ -54,10 +54,12 @@ WHERE {
 }
 ```
 
-Dans ce cas, c'est la requête suivante qui sera exécutée avec le SPARQL EndPoint https://data.istex.fr/sparql/
+Dans ce cas, c'est la requête suivante qui sera exécutée avec le SPARQL EndPoint [https://data.istex.fr/sparql/](https://data.istex.fr/sparql/)
 
-```
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+```sql
+PREFIX skos: 
+http://www.w3.org/2004/02/skos/core#
+
 SELECT ?genericLabel
 WHERE {
   ?wosCat skos:prefLabel "Physiology"@en .
@@ -66,3 +68,12 @@ WHERE {
 }
 LIMIT 1
 ```
+
+avec le résultat suivant:
+
+```
+
+```
+
+
+
