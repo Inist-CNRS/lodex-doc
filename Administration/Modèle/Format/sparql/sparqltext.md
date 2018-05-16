@@ -1,4 +1,4 @@
-8.20.1+
+8.20.2+
 
 # Sparql
 
@@ -72,9 +72,7 @@ avec le résultat suivant:
 
 ![](/assets/ResultExempleSparqlText.png)
 
-```
 
-```
 
 
 
