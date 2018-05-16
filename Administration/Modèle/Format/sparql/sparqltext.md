@@ -70,6 +70,8 @@ LIMIT 1
 
 avec le résultat suivant:
 
+![](/assets/ResultExempleSparqlText.png)
+
 ```
 
 ```
