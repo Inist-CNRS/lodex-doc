@@ -71,7 +71,7 @@
       * [Trello Timeline](/Administration/Modèle/Format/TrelloTimeLine.md)
       * [Internal URI](/Administration/Modèle/Format/Uri.md)
       * [Sparql](Administration/Modèle/Format/sparql.md)
-        * [SparqlText](Administration/Modèle/Format/sparql/sparqltext.md)
+        * [Texte](Administration/Modèle/Format/sparql/sparqltext.md)
         * [SparqlPieChart](Administration/Modèle/Format/sparql/toto.md)
     * [import](/Administration/Modèle/Import/README.md)
     * [routine](/Administration/Modèle/Routine/README.md)
