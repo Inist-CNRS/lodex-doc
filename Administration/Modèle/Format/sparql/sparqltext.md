@@ -16,9 +16,9 @@ Le `SPARQL endpoint` doit être un URL valide.
 
 Les variables indiquées dans la requête seront transformées en phrases.
 exemple : 
-*`label => Label`
-*`LibelleNomBnf => Libelle nom bnf`
-*`Lien_Catalogue_Bnf`
+*  `label => Label` 
+*  `LibelleNomBnf => Libelle nom bnf` 
+*  `Lien_Catalogue_Bnf => Lien catalogue bnf`
 
 ## Sparql request
 
