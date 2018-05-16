@@ -1,12 +1,11 @@
-DIPONIBLE EN 8.18.7+
-
+8.18.7+
 # Sparql
 
 Le format texte dispose de plusieurs paramètres :
 
 ![](/assets/FormatSparqlTextAdmin.png)
 
-Les paramètres `SPARQL endpoint`, `SPARQL request` et `max value` permettent de définir, pour le champ représenté, les éléments à afficher et la quantité.
+Les paramètres `SPARQL endpoint`, `SPARQL request` et `max value` permettent de définir, pour la ressource dédié, les éléments à afficher et la quantité.
 
 ## Sparql endpoint
 
