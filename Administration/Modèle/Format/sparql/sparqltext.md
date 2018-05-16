@@ -24,7 +24,9 @@ exemple :
 
 le paramètre `SPARQL request` contient la requête qu va être exécuté sur le endpoint.
 
-Pour indiquer la ressource qui va être incluse dans la requête, il devra être signalé par `??`.
+Pour indiquer la ressource qui va être incluse dans la requête, il devra être signalé par "`??`". 
+
+Si la valeur de la ressource ou le corps de la requête est incorrecte, la requête retournera une erreur et affichera `We are not able to display data`.
 
 ## Max value
 
