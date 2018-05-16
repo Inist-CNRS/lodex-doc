@@ -10,23 +10,22 @@ Les paramètres `SPARQL endpoint`, `SPARQL request` et `max value` permettent de
 
 ## Sparql endpoint
 
-Le paramètre `SPARQL endpoint` permet de selectionner la base de données sparql \(//data.istex.fr/sparql/ par défaut\)
+Le paramètre `SPARQL endpoint` permet de sélectionner la base de données sparql \(//data.istex.fr/sparql/ par défaut\)
 
-Le `SPARQL endpoint` doit être un url valide.
+Le `SPARQL endpoint` doit être un URL valide.
 
 
 ## Sparql request
 
 le paramètre `SPARQL request` contient la requête qu va être exécuté sur le endpoint.
 
-Pour indiquer la ressource qui va être incluse dans la requête, il devra être signaler par `??`.
+Pour indiquer la ressource qui va être incluse dans la requête, il devra être signalé par `??`.
 
 ## Max value
 
-le paramètre `SPARQL request` contient la requête qu va être exécuté sur le endpoint.
+le paramètre `max value` ignore la clause LIMIT pour la remplacer par la valeur fixée.
 
-Pour indiquer la ressource qui va être incluse dans la requête, il devra être signaler par `??`.
-
+Augmenter le nombre de requête influ sur le temps de réponse du enpoint interrogé.
 
 
 
