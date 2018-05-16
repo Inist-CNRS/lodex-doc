@@ -57,8 +57,7 @@ WHERE {
 Dans ce cas, c'est la requête suivante qui sera exécutée avec le SPARQL EndPoint [https://data.istex.fr/sparql/](https://data.istex.fr/sparql/)
 
 ```sql
-PREFIX skos: 
-http://www.w3.org/2004/02/skos/core#
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 SELECT ?genericLabel
 WHERE {
