@@ -24,9 +24,12 @@ Plusieurs sources d'information sont disponibles:
   [https://twitter.com/lodex\_team](https://twitter.com/lodex_team)
 * Contribution au logiciel \(pour les informaticiens\) :
   [https://github.com/Inist-CNRS/lodex/wiki](https://github.com/Inist-CNRS/lodex/wiki)
+* Contact par mail: contact@listes.lodex.fr
+* Liste de diffusion: users@listes.lodex.fr \(s'inscrire sur [listes.lodex.fr](https://listes.lodex.fr/sympa/info/users)\)
 
 ## Open Source
 
 LODEX est un outil _open source_ disponible sur GitHub: [https://github.com/Inist-CNRS/lodex](https://github.com/Inist-CNRS/lodex).
 
 Ce logiciel utilise la [licence CeCILL](http://www.cecill.info/). Vous pouvez l'utiliser, le modifier et/ou le redistribuer sous les termes de la même licence.
+
