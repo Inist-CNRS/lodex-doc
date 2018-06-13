@@ -21,6 +21,8 @@ Exemple :
 * `LibelleNomBnf` → `Libelle nom bnf` 
 * `Lien_Catalogue_Bnf` → `Lien catalogue bnf`
 
+De plus un lien vers un validateur SPARQL a été ajouté (8.20.4+)
+
 ## Sparql request
 
 Le paramètre `SPARQL request` contient la requête qu va être exécutée sur le _endpoint_.
