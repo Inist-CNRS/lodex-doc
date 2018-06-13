@@ -10,7 +10,7 @@ Les paramètres `SPARQL endpoint`, `SPARQL request` et `max value` permettent de
 
 ## Sparql endpoint
 
-Le paramètre `SPARQL endpoint` permet de sélectionner la base de données SPARQL \(`//data.istex.fr/sparql/` par défaut\)
+Le paramètre `SPARQL endpoint` permet de sélectionner la base de données SPARQL \(`https://data.istex.fr/sparql/` par défaut\)
 
 Le `SPARQL endpoint` doit être un URL valide.
 
@@ -21,7 +21,7 @@ Exemple :
 * `LibelleNomBnf` → `Libelle nom bnf` 
 * `Lien_Catalogue_Bnf` → `Lien catalogue bnf`
 
-De plus un lien vers un validateur SPARQL a été ajouté (8.20.4+)
+De plus un lien vers un validateur SPARQL a été ajouté \(8.20.4+\)
 
 ## Sparql request
 
@@ -43,10 +43,10 @@ Autrement dit, c'est le nombre de lignes \(ou de résultats\) affichées.
 
 ## Hide resource field & separator
 
-À partir de la de la version 8.20.4+ il est possible de masquer le champ indiquant la ressource ainsi que le sparql endpoint. 
+À partir de la de la version 8.20.4+ il est possible de masquer le champ indiquant la ressource ainsi que le sparql endpoint.
 
 En utilisant dans la requête une concaténation, il est possible d'afficher la valeur en forme de liste en indiquant le séparateur.  
-![Hide resource & separator](/assets/FormatSparqlTextUpgrade1.png)
+![Hide resource &amp; separator](/assets/FormatSparqlTextUpgrade1.png)
 
 ## Exemple
 
