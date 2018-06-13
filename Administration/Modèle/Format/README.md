@@ -21,6 +21,7 @@ Les formats suivant sont disponibles :
 * [Link Image](/Administration/Modèle/Format/LinkImage.md)
 * [List content](/Administration/Modèle/Format/List.md) \(Array\)
 * [Resource](/Administration/Modèle/Format/LodexResource.md)
+* [Field](Administration/Modèle/Format/field.md)
 * [MarkDown](/Administration/Modèle/Format/MarkDown.md)
 * [Network](/Administration/Modèle/Format/Network.md)
 * [Paragraph](/Administration/Modèle/Format/Paragraph.md)
