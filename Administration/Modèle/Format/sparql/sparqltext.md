@@ -39,6 +39,13 @@ Augmenter le nombre de requêtes influe sur le temps de réponse du _enpoint_ in
 
 Autrement dit, c'est le nombre de lignes \(ou de résultats\) affichées.
 
+## Hide resource field & separator
+
+À partir de la de la version 8.20.4+ il est possible de masquer le champ indiquant la ressource ainsi que le sparql endpoint. 
+
+En utilisant dans la requête une concaténation, il est possible d'afficher la valeur en forme de liste en indiquant le séparateur.  
+![Hide resource & separator](/assets/FormatSparqlTextUpgrade1.png)
+
 ## Exemple
 
 * Valeur du champ : `Physiology`
@@ -71,8 +78,4 @@ LIMIT 1
 avec le résultat suivant:
 
 ![](/assets/ResultExempleSparqlText.png)
-
-
-
-
 
