@@ -1,3 +1,6 @@
+8.21+
+
+
 # LODEX - Field
 
 Field fait référence à une autre ressource du même jeu de données, ou d'une autre instance de LODEX publiquement accessible sur le web. Il affiche ainsi les informations que l'on souhaite via les identifiants de la ressource.
