@@ -22,7 +22,7 @@ Plusieurs sources d'information sont disponibles:
 * Exemple réel :
   [https://data.istex.fr/](https://data.istex.fr/)
 * Cette documentation :
-  [https://lodex.gitbooks.io/lodex-user-documentation/](https://lodex.gitbooks.io/lodex-user-documentation/)
+  [https://user-doc.lodex.inist.fr](https://user-doc.lodex.inist.fr)
 * Actualité :
   [http://lodex.inist.fr/](http://lodex.inist.fr/)
 * Twitter :
