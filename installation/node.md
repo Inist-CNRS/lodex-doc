@@ -1,6 +1,6 @@
 # node
 
-_Pré-requis_: MongoDB 3+, [Node](https://nodejs.org/) 8+
+_Pré-requis_: MongoDB 3.4+, [Node](https://nodejs.org/) 10+
 
 Commencez par cloner ou télécharger le dépôt GitHub, puis installez les paquets, compilez l'application, et lancez-la:
 
