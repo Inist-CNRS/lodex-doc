@@ -8,9 +8,9 @@ La routine `distinct-by` compte, pour chaque élément du champ représenté \(i
 Cette routine peut être utilisée avec les formats graphiques :
 
 * [Bubble Chart](../../administration/modele/format/bubblechart.md) \(Graphe à bulles\)
-* [Bar Chart](https://github.com/lodex/lodex-user-documentation/tree/7e0012a6c9407d0d35e857ff4e1c93b20d74f66d/Administration/Modèle/Format/Distribution%20Charts/BarChart.md) \(Diagramme à barres et histogramme\)
-* [Pie Chart](https://github.com/lodex/lodex-user-documentation/tree/7e0012a6c9407d0d35e857ff4e1c93b20d74f66d/Administration/Modèle/Format/Distribution%20Charts/PieChart.md) \(Camembert\)
-* [Radar Chart](https://github.com/lodex/lodex-user-documentation/tree/7e0012a6c9407d0d35e857ff4e1c93b20d74f66d/Administration/Modèle/Format/Distribution%20Charts/RadarChart.md) \(Diagramme Radar\)
+* [Bar Chart](../../administration/modele/format/distribution-charts/barchart.md) \(Diagramme à barres et histogramme\)
+* [Pie Chart](../../administration/modele/format/distribution-charts/piechart.md) \(Camembert\)
+* [Radar Chart](../../administration/modele/format/distribution-charts/radarchart.md) \(Diagramme Radar\)
 * [Cartography](../../administration/modele/format/cartography.md) \(Cartographie\) \(si code ISO 3 ou code ISO 2 des pays\)
 
 Elle doit alors être déclarée dans `Value` \(Valeur\) selon :
@@ -24,4 +24,3 @@ où
 **Exemple** : [http://lodex-cop21.dpi.inist.fr/api/run/distinct-by/Yq6u/](http://lodex-cop21.dpi.inist.fr/api/run/distinct-by/Yq6u/) où `Yq6u` = `Year`
 
 ![R&#xE9;sultat JSON de la routine distinct-by](../../.gitbook/assets/routinedistinctby.png)
-
