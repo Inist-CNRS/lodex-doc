@@ -35,8 +35,8 @@ Le fichier hello-world.ini doit exister à l'adresse [https://raw.githubusercont
 ## Routines fournies par LODEX
 
 * [all-documents](alldocuments.md)
-* [all-fields](allfields.md)
-* [all-resources](allresources.md)
+* [all-fields]()
+* [all-resources]()
 * [count-all](countall.md)
 * [count-by-fields](countbyfields.md)
 * [distinct-by](distinctby.md)
