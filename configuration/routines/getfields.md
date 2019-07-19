@@ -20,7 +20,7 @@ en tsv
 **résultat de la routine:**  
 
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 \*\*\*\*
 

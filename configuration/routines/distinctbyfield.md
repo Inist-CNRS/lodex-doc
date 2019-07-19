@@ -29,5 +29,5 @@ où **`identifiant`** est le code attribué par LODEX au champ représenté.
 
 **Exemple:** [https://lodex9310-changclim.dboard.inist.fr/api/run/distinct-by-field/jpw2?maxSize=100&minValue=2&orderBy=value/desc](https://lodex9310-changclim.dboard.inist.fr/api/run/distinct-by-field/jpw2?maxSize=100&minValue=2&orderBy=value/desc)
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
