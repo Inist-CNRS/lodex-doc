@@ -7,3 +7,5 @@ Transforme les codes **ISO 3** des langues du champ représenté en intitulés v
 * **nombre d'occurrences** si le champ n'est pas dédoublonné
 * **nombre de documents** si le champ est dédoublonné
 
+![](../../.gitbook/assets/graphlangues.PNG)
+
