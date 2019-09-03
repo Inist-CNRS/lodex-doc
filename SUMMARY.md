@@ -21,6 +21,7 @@
     * [distinct-alpha-2-alpha3-from](configuration/routines/distinctalpha2alpha3from.md)
     * [distinct-alpha-3-alpha2-from](configuration/routines/distinctalpha3alpha2from.md)
     * [distinct-alpha-3-ISO3166-1-from](configuration/routines/distinctalpha3iso31661from.md)
+    * [distinct-alpha-3-ISO639-from](configuration/routines/distinct-alpha-3-iso639-from.md)
     * [distinct-by](configuration/routines/distinctby.md)
     * [distinct-by-field](configuration/routines/distinctbyfield.md)
     * [distribute-by-date](configuration/routines/distributebydate.md)
