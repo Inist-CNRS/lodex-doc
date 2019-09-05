@@ -115,4 +115,5 @@
       * [UNIQ](administration/modele/transformers/uniq.md)
       * [UPPERCASE](administration/modele/transformers/uppercase.md)
 * [Contribution](contribution.md)
+* [Moteur de recherche](moteur-de-recherche.md)
 
