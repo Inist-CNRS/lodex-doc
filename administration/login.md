@@ -2,7 +2,7 @@
 
 Pour administrer le jeu de données, vous devez d'abord vous authentifier en tant qu'administrateur.
 
-![Formulaire de connexion](../.gitbook/assets/image%20%2811%29.png)
+![Formulaire de connexion](../.gitbook/assets/image%20%2818%29.png)
 
 Le `username` et le `password` doivent correspondre à ceux renseignés dans le [fichier de configuration](../configuration/authentification.md).
 
