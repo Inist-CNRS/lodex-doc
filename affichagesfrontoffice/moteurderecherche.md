@@ -6,7 +6,7 @@ Cliquer sur la loupe « Recherche » dans le menu de gauche.
 
 Un écran s’ouvre avec un masque de requête, le nombre de documents total du corpus, la fonction « recherche filtrée »  et une liste de 10 notices en forme courte.
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 Il est possible :
 
@@ -20,7 +20,7 @@ Il est possible également d’associer recherche et représentation graphique d
 
 Taper un ou plusieurs termes dans le masque de requête.
 
-![](.gitbook/assets/image002.png)
+![](../.gitbook/assets/image002.png)
 
   
 Le moteur de recherche de Lodex est celui de MongoDB.
@@ -58,16 +58,16 @@ Sur le résultat de la recherche, il est possible de :
 
 Cliquer sur « recherche filtrée » pour voir la liste des facettes disponibles.
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
   
 Le chevron de droite permet de déplier les valeurs associées, avec leur nombre d’occurrences dans le corpus. On sélectionne ensuite les valeurs souhaitées ou à exclure en cochant les cases à leur gauche.
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 Il est possible d'associer plusieurs critères \(opérateur implicite : AND\).
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
   
 
@@ -82,11 +82,11 @@ Sélectionner le graphique « Type de publication » puis la facette « Mots cl�
 
 Avant sélection d’une facette :
 
-![](.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 Après sélection d'une facette, ici les mots-clés d'auteur :
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
   
 

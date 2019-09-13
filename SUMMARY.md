@@ -39,6 +39,8 @@
   * [exporters](configuration/exporters.md)
   * [sémantique](configuration/linkedopendata.md)
 * [Affichages Front office](affichagesfrontoffice/README.md)
+  * [Pages front office](affichagesfrontoffice/pages-front-office.md)
+  * [Moteur de recherche](affichagesfrontoffice/moteurderecherche.md)
   * [Accès restreint](affichagesfrontoffice/acces-restreint.md)
 * [Processus de publication](processuspublication/README.md)
   * [Chargement du jeu de données](processuspublication/chargementjeu.md)
@@ -115,5 +117,4 @@
       * [UNIQ](administration/modele/transformers/uniq.md)
       * [UPPERCASE](administration/modele/transformers/uppercase.md)
 * [Contribution](contribution.md)
-* [Moteur de recherche](moteur-de-recherche.md)
 
