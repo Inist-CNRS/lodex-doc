@@ -8,7 +8,7 @@ Un écran s’ouvre avec un masque de requête, le nombre de documents total du 
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-Il est possible :
+Il est possible : 
 
 -      soit de chercher indifféremment sur tous les champs indexés des ressources,
 
