@@ -38,7 +38,7 @@
     * [tree-by](configuration/routines/tree-by.md)
   * [exporters](configuration/exporters.md)
   * [sémantique](configuration/linkedopendata.md)
-* [Affichages Front office](affichagesfrontoffice/README.md)
+* [Front office](affichagesfrontoffice/README.md)
   * [Pages front office](affichagesfrontoffice/pages-front-office.md)
   * [Moteur de recherche](affichagesfrontoffice/moteurderecherche.md)
   * [Accès restreint](affichagesfrontoffice/acces-restreint.md)
