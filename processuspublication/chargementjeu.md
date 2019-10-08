@@ -24,8 +24,8 @@ Cliquer sur le texte correspondant. La liste des loaders disponibles s'affiche.
   
 - tableau CSV avec précision sur le séparateur : point-virgule, tabulation, tabulation et guillemets, virgule, automatique,  
 - fichier au format json, soit extrait de l'API ISTEX, soit déjà compatible avec LODEX \(export de LODEX\), soit "avec un tableau" pour, d'autres sources, notamment complexes,  
-- fichier XML utilisant le vocabulaire TEI ou MODS, ATOM, RSS ou SKOS,  
-- fichier zip extrait avec l'outil [dl](https://dl.istex.fr/)  : "résultat brut de dl.istex.fr" importe un certain nombre de champs avec intitulés anglais ; "résultats de dl.istex.fr" importe des champs plus nombreux avec intitulés français \(\(liste indicative en annexe\).
+- fichier XML utilisant le vocabulaire TEI ou MODS ou ATOM ou RSS ou SKOS,  
+- fichier zip extrait avec l'outil [dl](https://dl.istex.fr/)  :  "`résultat brut de dl.istex.fr`" importe un certain nombre de champs avec intitulés anglais ; "`résultats de dl.istex.fr`" importe des champs plus nombreux avec intitulés français, et des données mieux structurées pour certains graphiques \(catégories hiérachiques notammment\).
 
 
 
