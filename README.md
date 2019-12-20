@@ -31,7 +31,7 @@ Plusieurs sources d'information sont disponibles:
 
   [https://user-doc.lodex.inist.fr](https://user-doc.lodex.inist.fr)
 
-* Actualité :
+* Actualité : 
 
   [http://lodex.inist.fr/](http://lodex.inist.fr/)
 
