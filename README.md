@@ -35,15 +35,11 @@ Plusieurs sources d'information sont disponibles:
 
   [http://lodex.inist.fr/](http://lodex.inist.fr/)
 
-* Twitter :
-
-  [https://twitter.com/lodex\_team](https://twitter.com/lodex_team)
-
 * Contribution au logiciel \(pour les informaticiens\) :
 
   [https://github.com/Inist-CNRS/lodex/wiki](https://github.com/Inist-CNRS/lodex/wiki)
 
-* Contact par mail: contact@listes.lodex.fr
+* Contact par mail:  contact@listes.lodex.fr 
 * Liste de diffusion: users@listes.lodex.fr \(s'inscrire sur [listes.lodex.fr](https://listes.lodex.fr/sympa/info/users)\)
 
 ## Open Source
