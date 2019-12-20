@@ -1,7 +1,5 @@
 # node
 
-## node
-
 \_\_
 
 _Pré-requis_: MongoDB 3.4+, [Node](https://nodejs.org/) 10+
