@@ -58,12 +58,12 @@ Sur le résultat de la recherche, il est possible de :
 
 Cliquer sur « recherche filtrée » pour voir la liste des facettes disponibles.
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
   
 Le chevron de droite permet de déplier les valeurs associées, avec leur nombre d’occurrences dans le corpus. On sélectionne ensuite les valeurs souhaitées ou à exclure en cochant les cases à leur gauche.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 Il est possible d'associer plusieurs critères \(opérateur implicite : AND\).
 

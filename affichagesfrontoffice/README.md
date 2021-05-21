@@ -4,7 +4,7 @@ Informations utiles avant de passer au processus de publication et plus particul
 
 `Pages affichées dans le front-office` 
 
-Fonctionnement du moteur de recherche
+[Fonctionnement du moteur de recherche](https://app.gitbook.com/@lodex/s/lodex-user-documentation/affichagesfrontoffice/moteurderecherche)
 
 [Accès restreint](https://app.gitbook.com/@lodex/s/lodex-user-documentation/affichagesfrontoffice/acces-restreint)
 
