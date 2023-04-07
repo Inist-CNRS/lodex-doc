@@ -1,3 +1,9 @@
+**WARNING** : La documentation est maintenant consultable à cette adresse [https://lodex.inist.fr/docs/](https://lodex.inist.fr/docs/) 
+
+*Ce dépôt est obsolète*
+
+----
+
 # Introduction
 
 LODEX est un outil permettant la publication d'un jeu de données \(`.csv`, `.tsv`, `.xml`, `.json`, ...\) dans des formats du web sémantique \([JSON-LD](https://json-ld.org/), [N-Quads](https://www.w3.org/TR/n-quads/)\), et qui propose de les manipuler dans une interface d'administration dédiée. Il permet aussi d'exposer ces données sur le web, et même d'en faire des graphiques.
